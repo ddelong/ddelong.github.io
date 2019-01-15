@@ -1,0 +1,35 @@
+.header
+{
+	position: fixed;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	height: 1.5em;
+	font-family: Sans-Serif;
+	color: white;
+	background-color: #090;
+	padding: 0.25em;
+}
+
+.header .description
+{
+	float: left;
+	font-size: large;
+}
+
+.header .form { float: right; }
+
+.searchresults { margin: 2em 0 2em 0; }
+
+.nosearch { margin: 2em 0 2em 0; }
+
+.footer
+{
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	font-family: Sans-Serif;
+	color: white;
+	background-color: #090;
+}

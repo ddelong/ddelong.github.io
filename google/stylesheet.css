@@ -1,0 +1,27 @@
+.title
+{
+	position: fixed;
+	color: white;
+	font-family: Georgia, Serif;
+	font-size: large;
+	background-color: #090;
+	top: 0;
+	right: 0;
+	left: 0;
+	margin: 0;
+	height: 1.5em;
+}
+
+.intro
+{
+	margin: 2em 0 0 0;
+	background-color: #090;
+	color: white;
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	font-family: Arial, Sans-serif
+}
+
+.utility { margin: 2em 0 0 0; }
