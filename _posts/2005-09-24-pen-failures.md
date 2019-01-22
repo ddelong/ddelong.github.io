@@ -15,8 +15,8 @@ categories:
 ---
 My [HP](http://www.hp.com) Deskjet 5150 suddenly decided to stop printing the other day. It reported a &#8220;Pen Failure&#8221;. The little ink light on the front of the printer started blinking as well.
 
-It happened just before I went to print out some driving directions, so it was rather inconvenient. I decided I&#8217;d try HP&#8217;s website to explain the error, because it&#8217;s rather cryptic, even for me.
+It happened just before I went to print out some driving directions, so it was rather inconvenient. I decided I'd try HP's website to explain the error, because it's rather cryptic, even for me.
 
 That was totally fruitless. I resorted to fruitless Google searching. A couple people complained about it, but no definite answer was found. The best I could find was an ink module issue.
 
-I pulled out my black ink cartridge and it stopped the blinking. My Powermac also stopped giving errors. I went down to Wallyworld and bought a new model 56 print cartridge. I put it in and all was well. Apparently the solution to a &#8220;Pen Failure&#8221; is a new print cartridge. Too bad HP doesn&#8217;t explain this.
+I pulled out my black ink cartridge and it stopped the blinking. My Powermac also stopped giving errors. I went down to Wallyworld and bought a new model 56 print cartridge. I put it in and all was well. Apparently the solution to a &#8220;Pen Failure&#8221; is a new print cartridge. Too bad HP doesn't explain this.

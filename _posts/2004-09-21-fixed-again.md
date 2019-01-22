@@ -11,6 +11,6 @@ shorturl:
 categories:
   - Site News
 ---
-The real question is for how long. I am noting this because again, it&#8217;s proof that WordPress works fine and great.
+The real question is for how long. I am noting this because again, it's proof that WordPress works fine and great.
 
-Now I&#8217;m waiting for the explanation.
+Now I'm waiting for the explanation.

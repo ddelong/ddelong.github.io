@@ -13,6 +13,6 @@ shorturl:
 categories:
   - Personal
 ---
-I might now be able to write for the next few days. After dinner last night, I started having some abdominal pains. It all shifted to my right side shortly before bed and it&#8217;s still there. I&#8217;m feeling pretty woozy right now, so I&#8217;m going to have to deal with it.
+I might now be able to write for the next few days. After dinner last night, I started having some abdominal pains. It all shifted to my right side shortly before bed and it's still there. I'm feeling pretty woozy right now, so I'm going to have to deal with it.
 
 Yikes.

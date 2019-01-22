@@ -12,7 +12,7 @@ shorturl:
 ---
 ## Subscription
 
-There is a variety of ways to get your daily fix of this site. The Feedburner feed, aka Superfeed, combines all of my content and doings as collected at [Planet d00dism](http://planet.godlikenerd.com). Eagle-eyed users will notice that the RSS2.0 feed is actually at Feedburner as well, but that&#8217;s for statistical purposes only. No extra content is added.
+There is a variety of ways to get your daily fix of this site. The Feedburner feed, aka Superfeed, combines all of my content and doings as collected at [Planet d00dism](http://planet.godlikenerd.com). Eagle-eyed users will notice that the RSS2.0 feed is actually at Feedburner as well, but that's for statistical purposes only. No extra content is added.
 
 Enjoy!
 

@@ -13,8 +13,8 @@ shorturl:
 categories:
   - Site News
 ---
-After seeing how strong the muliple users feature of WordPress is and how easily it can make it for users to post, I think I&#8217;ll be turning the OS X Forum FAQ into a blog. This will have the advantages of being easily updated (even without my attention), allow for individual posting, keep the pages small and fast loading, as well as add a search engine.
+After seeing how strong the muliple users feature of WordPress is and how easily it can make it for users to post, I think I'll be turning the OS X Forum FAQ into a blog. This will have the advantages of being easily updated (even without my attention), allow for individual posting, keep the pages small and fast loading, as well as add a search engine.
 
-I&#8217;ll be posting a notice onto Macworld&#8217;s site calling attention to this entry. I want comments, lots of them. All opinions are important to me.
+I'll be posting a notice onto Macworld's site calling attention to this entry. I want comments, lots of them. All opinions are important to me.
 
-**Addendum:** I&#8217;ve opted to use phpMyFAQ instead of WordPress to maintain the FAQ. It is a professional package expressly for FAQ maintenance.
+**Addendum:** I've opted to use phpMyFAQ instead of WordPress to maintain the FAQ. It is a professional package expressly for FAQ maintenance.

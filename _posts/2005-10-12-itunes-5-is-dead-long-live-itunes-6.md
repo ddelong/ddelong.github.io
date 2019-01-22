@@ -13,12 +13,12 @@ dsq_thread_id:
 categories:
   - Apple
 ---
-According to live news updates out of Apple&#8217;s press conference today, iTunes 6 will be introduced today. 
+According to live news updates out of Apple's press conference today, iTunes 6 will be introduced today. 
 
-You didn&#8217;t misread that. Barely a month after its introduction, iTunes 5 has been superceded by iTunes 6. **A month.** Good lord.
+You didn't misread that. Barely a month after its introduction, iTunes 5 has been superceded by iTunes 6. **A month.** Good lord.
 
-It&#8217;s official: iTunes 5 was most meaningless iTunes update _ever_. Either that, or we can expect iTunes 7 at Thanksgiving, earning it the name &#8220;iTunes Turkey Edition&#8221;. That will be followed by a Christmas version 8 with an all red and green interface.
+It's official: iTunes 5 was most meaningless iTunes update _ever_. Either that, or we can expect iTunes 7 at Thanksgiving, earning it the name &#8220;iTunes Turkey Edition&#8221;. That will be followed by a Christmas version 8 with an all red and green interface.
 
-The question jumbling around in my brain is &#8220;Is video the only addition in this version?&#8221; From what I read, it is. iTunes already had rudimentary video support. Why, oh why didn&#8217;t Apple just bump the version to 5.5 (at most, I think 5.1 would be more appropriate). It would explain why Apple didn&#8217;t change iTunes&#8217; icon color (minor, yes, but it was enough to bug me).
+The question jumbling around in my brain is &#8220;Is video the only addition in this version?&#8221; From what I read, it is. iTunes already had rudimentary video support. Why, oh why didn't Apple just bump the version to 5.5 (at most, I think 5.1 would be more appropriate). It would explain why Apple didn't change iTunes' icon color (minor, yes, but it was enough to bug me).
 
-Honestly, Apple is getting a little loosey goosey with iTunes versioning. It&#8217;s time to reign it back in.
+Honestly, Apple is getting a little loosey goosey with iTunes versioning. It's time to reign it back in.

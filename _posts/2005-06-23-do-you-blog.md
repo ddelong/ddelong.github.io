@@ -11,6 +11,6 @@ shorturl:
 categories:
   - Blogging
 ---
-Make sure you take MIT&#8217;s survey for blog authors.
+Make sure you take MIT's survey for blog authors.
 
 [<img src="http://blogsurvey.media.mit.edu/images/survey-statistic.gif" alt="Take the MIT Weblog Survey" style="border:none" />](http://blogsurvey.media.mit.edu/request)

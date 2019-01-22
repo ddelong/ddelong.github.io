@@ -13,12 +13,12 @@ shorturl:
 categories:
   - Macs
 ---
-My brother called me today, slightly frantic, but calmed. His iMac G4 wouldn&#8217;t start up. Normally, I&#8217;d recommend zapping the PRAM, resetting the Open Firmware, things like that.
+My brother called me today, slightly frantic, but calmed. His iMac G4 wouldn't start up. Normally, I'd recommend zapping the PRAM, resetting the Open Firmware, things like that.
 
-The problem was, he couldn&#8217;t do those things. It wouldn&#8217;t boot **at all**. There wasn&#8217;t even a chime. The computer was absolutely dead silent.
+The problem was, he couldn't do those things. It wouldn't boot **at all**. There wasn't even a chime. The computer was absolutely dead silent.
 
 Little did I realize that the flat panel iMacs also had the PMU (Power Management Unit) like my Powermac and [Powerbook](http://www.igroupmac.org/tag/powerbook) had. Apple even has [instructions](http://docs.info.apple.com/article.html?artnum=95165).
 
-The instructions are great and colorful, but they&#8217;re slightly lacking in one way. When pressing down the button, it&#8217;s a good idea to hold it down for a little bit. Tyson (my bro) pressed it once quickly, but it didn&#8217;t restore booting. That scared me. He decided to try it again but hold down longer.
+The instructions are great and colorful, but they're slightly lacking in one way. When pressing down the button, it's a good idea to hold it down for a little bit. Tyson (my bro) pressed it once quickly, but it didn't restore booting. That scared me. He decided to try it again but hold down longer.
 
 I was greeted soon thereafter by the dulcet tones of a Mac starting up over the phone. _Victory._

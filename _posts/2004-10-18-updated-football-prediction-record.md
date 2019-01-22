@@ -13,8 +13,8 @@ dsq_thread_id:
 categories:
   - Sports
 ---
-I figure I might as well take my lumps now while I&#8217;m riding high on this past weekends picks.
+I figure I might as well take my lumps now while I'm riding high on this past weekends picks.
 
-I had the horrible misfortune of have a 6-8 record during week five. Sad. Week six thus far has been much better. So far, it&#8217;s 11-2. Houston always surprises me and I&#8217;m glad to see Green Bay on the road to recovery.
+I had the horrible misfortune of have a 6-8 record during week five. Sad. Week six thus far has been much better. So far, it's 11-2. Houston always surprises me and I'm glad to see Green Bay on the road to recovery.
 
 I now have a **37-18** record for the season.

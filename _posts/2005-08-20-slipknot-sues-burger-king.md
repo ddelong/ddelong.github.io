@@ -13,8 +13,8 @@ dsq_thread_id:
 categories:
   - General
 ---
-> Claiming that its image and persona have been hijacked as part of a marketing campaign for Burger King&#8217;s new chicken fries, the costumed heavy metal band Slipknot is threatening the fast food giant with legal action.
+> Claiming that its image and persona have been hijacked as part of a marketing campaign for Burger King's new chicken fries, the costumed heavy metal band Slipknot is threatening the fast food giant with legal action.
 
-I actually wondered for a brief moment if it was Slipknot, but it&#8217;s so blatantly not.  
+I actually wondered for a brief moment if it was Slipknot, but it's so blatantly not.  
   
 [read more](http://www.thesmokinggun.com/archive/0817052slipknot1.html)&nbsp;|&nbsp;[digg story](http://digg.com/music/Slipknot_sues_Burger_King)

@@ -13,7 +13,7 @@ dsq_thread_id:
 categories:
   - Sports
 ---
-It&#8217;s week four of the football season and the Patriots are back from their bye-week. Here are my predictions:
+It's week four of the football season and the Patriots are back from their bye-week. Here are my predictions:
 
   * **New England** vs. Buffalo
   * **Philadelphia** vs. Chicago

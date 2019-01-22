@@ -17,11 +17,11 @@ Dear Web Community,
 
 _Hard wrapping is stupid._ This is important. **Hard wrapping is stupid.**
 
-I&#8217;m begging everyone to stop doing it. Allow me to be a bit pedantic for a moment and explain what I mean. Essentially one of the first features added to computers when they were being made was to automatically start printing text onto the next line once the current line was overfilled. This is known as wrapping. When people used typewriters, it was necessary to manually wrap and a little bell told one when to do so.
+I'm begging everyone to stop doing it. Allow me to be a bit pedantic for a moment and explain what I mean. Essentially one of the first features added to computers when they were being made was to automatically start printing text onto the next line once the current line was overfilled. This is known as wrapping. When people used typewriters, it was necessary to manually wrap and a little bell told one when to do so.
 
 This manual makeshift system was thrown out because it was quickly discovered that computers could compute how many characters long the current line was and if the current word exceeded that bounds, place it on the next line. They even programmed it to recalculate these bounds and word placement when a particular line of text was modified. This amazing feature was updated when variable width character fonts were introduced.
 
-Hell, most kids don&#8217;t even know that at one point it was necessary to manually (hard) wrap your lines. They only know automatic (soft) wrapping that is present on every computer out there. That&#8217;s why it blows my mind that some people still take it upon themselves to do this work for the computer. This naturally results in text like the following.
+Hell, most kids don't even know that at one point it was necessary to manually (hard) wrap your lines. They only know automatic (soft) wrapping that is present on every computer out there. That's why it blows my mind that some people still take it upon themselves to do this work for the computer. This naturally results in text like the following.
 
     To this day, I still have no idea
     that computers can do something so

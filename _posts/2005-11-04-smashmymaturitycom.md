@@ -11,7 +11,7 @@ shorturl:
 categories:
   - Apple
 ---
-I&#8217;m sure you&#8217;ve all read about [SmashMyiPod.com](http://www.smashmyipod.com). I thought it was infantile in concept before I read the website. You can imagine my shock when I read his _classy_ responses over on [Cult of Mac](http://cultofmac.com/index.php/2005/10/31/smashmyipod_responds_where_the_money_wen).
+I'm sure you've all read about [SmashMyiPod.com](http://www.smashmyipod.com). I thought it was infantile in concept before I read the website. You can imagine my shock when I read his _classy_ responses over on [Cult of Mac](http://cultofmac.com/index.php/2005/10/31/smashmyipod_responds_where_the_money_wen).
 
 > I hear ipod video screens cause impotence and hair loss.
 
@@ -19,7 +19,7 @@ Then I made a stupid mistake and went to the site where I got to read the follow
 
 > I hear iPods cause cancer and genetic mutations in fetuses.
 
-I read two samples of his writing and he&#8217;s already sounding repetitive. His schtick isn&#8217;t even terribly clever or funny.
+I read two samples of his writing and he's already sounding repetitive. His schtick isn't even terribly clever or funny.
 
 I hear reading his site and watching the video causes loss of brain cells and maturity.
 

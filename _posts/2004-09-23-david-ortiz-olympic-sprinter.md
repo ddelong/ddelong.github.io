@@ -13,6 +13,6 @@ shorturl:
 categories:
   - Sports
 ---
-I just thought I&#8217;d mention a play from tonight&#8217;s Red Sox game that was really inspiring. [David &#8220;Big Papi&#8221; Ortiz](http://bigleaguers.yahoo.com/mlbpa/players/5909) managed to run all the way home from first base on a **single**.
+I just thought I'd mention a play from tonight's Red Sox game that was really inspiring. [David &#8220;Big Papi&#8221; Ortiz](http://bigleaguers.yahoo.com/mlbpa/players/5909) managed to run all the way home from first base on a **single**.
 
 Way to move that big caboose of yours, big boy!

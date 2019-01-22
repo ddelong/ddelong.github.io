@@ -15,4 +15,4 @@ categories:
 ---
 In another vain moment, I rechecked my PageRank at Google. I remembered it being 5/10. I was right. Take that, [Mike and his rank of 6](http://www.planetmike.com/blog/2006/02/24#pagerank).
 
-**Edit:** Doh. Higher is better. I&#8217;m a moron.
+**Edit:** Doh. Higher is better. I'm a moron.

@@ -11,6 +11,6 @@ shorturl:
 categories:
   - Site News
 ---
-After days of troubleshooting a couple weeks ago, I got my Blog fixed. Apparently, my host is having a relapse. I won&#8217;t be able to do much until I get it fixed, so stand by.
+After days of troubleshooting a couple weeks ago, I got my Blog fixed. Apparently, my host is having a relapse. I won't be able to do much until I get it fixed, so stand by.
 
 _sigh_

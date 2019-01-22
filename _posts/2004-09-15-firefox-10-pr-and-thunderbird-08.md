@@ -22,8 +22,8 @@ New features include:
   * **Improved TypeAhead Find** which now shows an unobtrusive search bar at the bottom to help control your searching.
   * **Slight UI Improvements** Although the changes are slight, overall they much improve the experience of using Firefox. The URL slot turning beige when at a secure site is a nice touch.
 
-Thunderbird also sports some great new features. In particular, it adds RSS feed support. You may think: _So what? You just told me about Firefox&#8217;s Live Bookmarks._ Well, hold on a second. While it&#8217;s a nice new feature, it still doesn&#8217;t address the problem of managing many feeds and keeping track of what you&#8217;ve read. Thunderbird lets you treat them like email, with each article being a message. You can make them read, move them, copy them, and even delete them. _Sweet._
+Thunderbird also sports some great new features. In particular, it adds RSS feed support. You may think: _So what? You just told me about Firefox's Live Bookmarks._ Well, hold on a second. While it's a nice new feature, it still doesn't address the problem of managing many feeds and keeping track of what you've read. Thunderbird lets you treat them like email, with each article being a message. You can make them read, move them, copy them, and even delete them. _Sweet._
 
-**Important:** Be sure to upgrade to these versions if you already use them. They aren&#8217;t susceptible to an exploit recently announced.
+**Important:** Be sure to upgrade to these versions if you already use them. They aren't susceptible to an exploit recently announced.
 
-As I&#8217;ve said elsewhere, I&#8217;ll be sticking with Safar, Mail, and NetNewsWire on my Mac. However, on PC&#8217;s (Windows and Linux) I&#8217;ll be using the Firefox/Thunderbird combo.
+As I've said elsewhere, I'll be sticking with Safar, Mail, and NetNewsWire on my Mac. However, on PC's (Windows and Linux) I'll be using the Firefox/Thunderbird combo.

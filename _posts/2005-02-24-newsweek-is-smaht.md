@@ -13,8 +13,8 @@ shorturl:
 categories:
   - Humor
 ---
-Tonight on Dennis Miller, Gersh Kuntzman of Newsweek appeared on the Varsity discussion panel. I didn&#8217;t get a chance to get the entire quote but he said about Arnold Schwarzenegger:
+Tonight on Dennis Miller, Gersh Kuntzman of Newsweek appeared on the Varsity discussion panel. I didn't get a chance to get the entire quote but he said about Arnold Schwarzenegger:
 
 > He speaks Austrian better than&#8230;.
 
-Apparently, Austria has decided to rid itself of the German language and adopted its own new language. I&#8217;ll have to subscribe to Newsweek because I&#8217;m missing some major stories.
+Apparently, Austria has decided to rid itself of the German language and adopted its own new language. I'll have to subscribe to Newsweek because I'm missing some major stories.

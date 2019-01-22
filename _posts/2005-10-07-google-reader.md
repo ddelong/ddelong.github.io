@@ -15,4 +15,4 @@ categories:
 ---
 Just when I was getting ready to drop [Bloglines](http://www.bloglines.com) for [NewsGator](http://www.newsgator.com) because it will soon have NetNewsWire syncing, Google released [its own RSS reader](http://reader.google.com).
 
-I&#8217;m going to check it out soon, but unfortunately, I can&#8217;t share anything now because its OPML import facilities aren&#8217;t working for me.
+I'm going to check it out soon, but unfortunately, I can't share anything now because its OPML import facilities aren't working for me.

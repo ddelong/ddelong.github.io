@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Sports
 ---
-The last regular season week of this. After doing it this entire season I&#8217;ve decided something. I have to make some software to do this for me next year. I&#8217;ll be looking for help from anyone with PHP and MySQL experience (or those with some interest).
+The last regular season week of this. After doing it this entire season I've decided something. I have to make some software to do this for me next year. I'll be looking for help from anyone with PHP and MySQL experience (or those with some interest).
 
   * Miami vs. **Baltimore**
   * **Pittsburgh** vs. Buffalo

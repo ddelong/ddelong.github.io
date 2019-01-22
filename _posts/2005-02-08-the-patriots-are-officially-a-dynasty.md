@@ -15,4 +15,4 @@ categories:
 ---
 Hurrah for the Pats! I managed to survive the Superbowl party I went to. I even posted up [some pictures](http://godlikenerd.com/photos/superbowl05). No pictures of me, for those of you curious.
 
-At any rate, it was a great time and a pretty good game (from what I can remember). Now where&#8217;s Freddie Mitchell&#8217;s big mouth?
+At any rate, it was a great time and a pretty good game (from what I can remember). Now where's Freddie Mitchell's big mouth?

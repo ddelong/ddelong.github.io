@@ -11,4 +11,4 @@ shorturl:
 categories:
   - Personal
 ---
-I&#8217;m going to show my inner geek tonight and see [AvP](http://www.apple.com/trailers/fox/avp/) tonight. I&#8217;ll probably post a review later on tonight if I&#8217;m feeling up to it.
+I'm going to show my inner geek tonight and see [AvP](http://www.apple.com/trailers/fox/avp/) tonight. I'll probably post a review later on tonight if I'm feeling up to it.

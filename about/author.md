@@ -12,7 +12,7 @@ shorturl:
 ---
 ## About Me
 
-My name is Derik DeLong and I&#8217;m a 29 year old senior software engineer. I&#8217;m currently employed writing code in Woburn.
+My name is Derik DeLong and I'm a 29 year old senior software engineer. I'm currently employed writing code in Woburn.
 
 I graduated from the [University of Massachusetts at Amherst](http://www.umass.edu) with a Bachelor of Science degree in Computer Science. I spent an abnormally short four years there.
 

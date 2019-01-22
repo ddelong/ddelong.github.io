@@ -16,4 +16,4 @@ tags:
   - iPhone
   - tip
 ---
-Put you App Store icon on a less frequented page. You&#8217;ll feel less compelled to check for updates and look for new apps.
+Put you App Store icon on a less frequented page. You'll feel less compelled to check for updates and look for new apps.

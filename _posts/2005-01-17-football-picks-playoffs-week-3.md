@@ -18,4 +18,4 @@ Seeing as there are only two games next week, I think I can pick them now.
   * **New England** vs. Pittsburgh
   * **Atlanta** vs. Philadelphia
 
-Atlanta looked really strong and I think their run game may destroy the Eagles. Pittsburgh simply didn&#8217;t look that good against the Jets (who would have won save for two missed kicks).
+Atlanta looked really strong and I think their run game may destroy the Eagles. Pittsburgh simply didn't look that good against the Jets (who would have won save for two missed kicks).

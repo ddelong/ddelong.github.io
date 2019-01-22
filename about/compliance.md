@@ -12,4 +12,4 @@ shorturl:
 ---
 ## Compliance
 
-This website was once extremely compliant and no longer is due to repeated WordPress and template updates. Some day I&#8217;ll get around to fixing it again.
+This website was once extremely compliant and no longer is due to repeated WordPress and template updates. Some day I'll get around to fixing it again.

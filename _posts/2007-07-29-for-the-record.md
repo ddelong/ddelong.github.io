@@ -11,6 +11,6 @@ shorturl:
 categories:
   - Personal
 ---
-To my towel, you&#8217;re awesome and I love you.
+To my towel, you're awesome and I love you.
 
-PS You&#8217;re still a towel.
+PS You're still a towel.

@@ -13,11 +13,11 @@ shorturl:
 categories:
   - Macs
 ---
-I can&#8217;t say too much about the two following links as they are fairly self-explanatory.
+I can't say too much about the two following links as they are fairly self-explanatory.
 
 I will say that they are worth the **extremely** long read.
 
-By reading these stories you can also figure out common scammer tactics on eBay. Any experienced eBayer will already know all the do&#8217;s and don&#8217;ts, but it&#8217;s still worth the read.
+By reading these stories you can also figure out common scammer tactics on eBay. Any experienced eBayer will already know all the do's and don'ts, but it's still worth the read.
 
 Without further ado, they are:
   

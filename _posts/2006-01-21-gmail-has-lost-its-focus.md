@@ -13,11 +13,11 @@ shorturl:
 categories:
   - Technology
 ---
-I use my Gmail account to manage several mailing lists I&#8217;m subscribed to. I also regularly re-evaluate it for use as my main email address. So far, no dice. I just like desktop email clients much more.
+I use my Gmail account to manage several mailing lists I'm subscribed to. I also regularly re-evaluate it for use as my main email address. So far, no dice. I just like desktop email clients much more.
 
-One of the more compelling things about Gmail is the amount of space allotted for each user (2686 MB at the moment). With most emails being only a few kilobytes big, users aren&#8217;t going to fill up that space (particularly because that allotment grows every day). There are exceptions, such as Adam Curry (who receives lots of audio files in his email), but other users aren&#8217;t going to have an issue.
+One of the more compelling things about Gmail is the amount of space allotted for each user (2686 MB at the moment). With most emails being only a few kilobytes big, users aren't going to fill up that space (particularly because that allotment grows every day). There are exceptions, such as Adam Curry (who receives lots of audio files in his email), but other users aren't going to have an issue.
 
-It&#8217;s for this reason that [Gmail](http://www.igroupmac.org/20081110/how-to-setup-imap-for-gmail-on-your-iphone) didn&#8217;t make it easy to delete email. There was no point. It wasn&#8217;t that it was impossible either. All one needed to do was choose &#8220;Move to Trash&#8221; from the actions pop-up menu. Keeping it less accessible was a good thing because it trained users to stop trying to delete every piece of email. That was no longer part of the paradigm, save for extreme cases.
+It's for this reason that [Gmail](http://www.igroupmac.org/20081110/how-to-setup-imap-for-gmail-on-your-iphone) didn't make it easy to delete email. There was no point. It wasn't that it was impossible either. All one needed to do was choose &#8220;Move to Trash&#8221; from the actions pop-up menu. Keeping it less accessible was a good thing because it trained users to stop trying to delete every piece of email. That was no longer part of the paradigm, save for extreme cases.
 
 Google has finally given up on its &#8220;delete nothing&#8221; paradigm and put a delete button prominently in the toolbar. Well, it was a good idea while it lasted. <!-- technorati tags start -->
 

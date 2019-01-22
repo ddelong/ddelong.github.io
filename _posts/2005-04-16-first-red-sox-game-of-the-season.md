@@ -15,4 +15,4 @@ categories:
 ---
 I got a chance to go to a [Red Sox game last night](http://sports.yahoo.com/mlb/recap?gid=250415102) with my Sox buddy, [Dana](http://xandriamd87.blogspot.com). We even spanked the Devilrays 10-0.
 
-I wasn&#8217;t expecting to get to go this year, so it was great to go so early in the season. If Raytheon has another group Red Sox trip like they did last year, I may go again.
+I wasn't expecting to get to go this year, so it was great to go so early in the season. If Raytheon has another group Red Sox trip like they did last year, I may go again.

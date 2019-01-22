@@ -13,4 +13,4 @@ shorturl:
 categories:
   - Personal
 ---
-I love when I get mentioned in other people&#8217;s blogs. In particular, when it&#8217;s a sexy context as at [Dana&#8217;s blog](http://xandriamd87.blogspot.com/2004/11/sounds-to-me-like-derik-started-air.html).
+I love when I get mentioned in other people's blogs. In particular, when it's a sexy context as at [Dana's blog](http://xandriamd87.blogspot.com/2004/11/sounds-to-me-like-derik-started-air.html).

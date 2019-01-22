@@ -13,6 +13,6 @@ shorturl:
 categories:
   - Personal
 ---
-You&#8217;re going to want to head down to your local newsstand if you&#8217;re not a subscriber to Macworld magazine. The July 2005 issue features an article written by yours truly (it&#8217;s the sidebar on page 46). It&#8217;s already been published online, but there&#8217;s nothing like a physical copy right in your hands.
+You're going to want to head down to your local newsstand if you're not a subscriber to Macworld magazine. The July 2005 issue features an article written by yours truly (it's the sidebar on page 46). It's already been published online, but there's nothing like a physical copy right in your hands.
 
-I plan on buying a couple copies so I can frame it as it&#8217;s my first published work. It&#8217;s quite an exciting day for me. Hopefully I can make this a more regular thing.
+I plan on buying a couple copies so I can frame it as it's my first published work. It's quite an exciting day for me. Hopefully I can make this a more regular thing.

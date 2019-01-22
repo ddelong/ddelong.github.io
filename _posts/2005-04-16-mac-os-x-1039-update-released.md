@@ -35,13 +35,13 @@ Here are the changes.
 > 
 >   * Addresses an issue in which copied files could become fragmented (but still usable) when you copy more than one file at the same time in the Finder.
 >   * Addresses a rare issue in which a file could become damaged when copying to a FAT16- or FAT32-formatted volume.
->   * Improves reliability when mounting (making available) a disk image that&#8217;s larger than 4.7 GB.
+>   * Improves reliability when mounting (making available) a disk image that's larger than 4.7 GB.
 > 
 > **More**
 > 
 >   * Addresses slow vertical tracking and intermittent trackpad behavior on PowerBook G4 12-inch 1.5GHz, 15-inch 1.67/1.5GHz, and 17-inch 1.67GHz computers.
->   * Adds an &#8220;Apple Internal 56k Modem (v.32)&#8221; modem choice that you can use if you have difficulty using Verizon&#8217;s Airfone Jet Connect service.
->   * Addresses an issue with Mac OS X 10.3.6 and later in which the Calculator window won&#8217;t appear if the Speak Button Pressed or Speak Total options are enabled.
+>   * Adds an &#8220;Apple Internal 56k Modem (v.32)&#8221; modem choice that you can use if you have difficulty using Verizon's Airfone Jet Connect service.
+>   * Addresses an issue with Mac OS X 10.3.6 and later in which the Calculator window won't appear if the Speak Button Pressed or Speak Total options are enabled.
 >   * Fixes an issue at the login window, where clicking the small space just below the bottom user account picture would produce this alert:
 >   * &#8220;Internal Error \*** -[NSCF Array objectAtIndex:]: index(-1) beyond bounds (X)&#8221; (where X is the number of user accounts shown).
 >   * Addresses an issue in which the startup time in Mac OS X 10.3.6 through 10.3.8 may be extended if a large number of PostScript fonts are installed.
@@ -52,11 +52,11 @@ Here are the changes.
 
 The update is available in both [delta](http://docs.info.apple.com/article.html?artnum=300966) and [combo](http://docs.info.apple.com/article.html?artnum=300967) forms. The update from the notes seems like just another bugfix update.
 
-It&#8217;s not though. I&#8217;m surprised that Apple&#8217;s notes don&#8217;t reflect the huge number of changes in Safari 1.3, which is part of the update. Luckily for us, Dave Hyatt has [delineated these changes](http://weblogs.mozillazine.org/hyatt/archives/2005_04.html#007962) for us.
+It's not though. I'm surprised that Apple's notes don't reflect the huge number of changes in Safari 1.3, which is part of the update. Luckily for us, Dave Hyatt has [delineated these changes](http://weblogs.mozillazine.org/hyatt/archives/2005_04.html#007962) for us.
 
 > **Page Load Performance**
     
-> Safari 1.3 loads pages overall 35% faster than 1.2 as measured by IBench. In addition to improving the overall page load, Safari 1.3 will display content sooner than 1.2 did, so that subresources don&#8217;t hold up the initial display of the page.
+> Safari 1.3 loads pages overall 35% faster than 1.2 as measured by IBench. In addition to improving the overall page load, Safari 1.3 will display content sooner than 1.2 did, so that subresources don't hold up the initial display of the page.
 > 
 > **JavaScript Performance**
     
@@ -64,7 +64,7 @@ It&#8217;s not though. I&#8217;m surprised that Apple&#8217;s notes don&#8217;t 
 > 
 > **HTML Editing**
     
-> Safari 1.3 supports HTML editing, both at the Objective-C WebKit API level and using contenteditable and designMode in a Web page. The new Mail app in Tiger uses WebKit for message composition. You can write apps that make use of WebKit&#8217;s editing technology and deploy them on Panther and Tiger.
+> Safari 1.3 supports HTML editing, both at the Objective-C WebKit API level and using contenteditable and designMode in a Web page. The new Mail app in Tiger uses WebKit for message composition. You can write apps that make use of WebKit's editing technology and deploy them on Panther and Tiger.
 > 
 > **Compatibility and Security**
     
@@ -72,7 +72,7 @@ It&#8217;s not though. I&#8217;m surprised that Apple&#8217;s notes don&#8217;t 
 > 
 > **The DOM Exposed**
     
-> The entire level 2 DOM has been exposed a public API in Objective-C. This means various holes have been filled in Safari&#8217;s DOM level 2 support. In addition to exposing the DOM to Objective-C, the JS objects that wrap DOM objects can also be accessed from Objective-C, allowing you to examine and edit the JS objects themselves to inject properties onto them that can then be accessed from your Web page.
+> The entire level 2 DOM has been exposed a public API in Objective-C. This means various holes have been filled in Safari's DOM level 2 support. In addition to exposing the DOM to Objective-C, the JS objects that wrap DOM objects can also be accessed from Objective-C, allowing you to examine and edit the JS objects themselves to inject properties onto them that can then be accessed from your Web page.
 > 
 > **XSLT**
     
@@ -82,4 +82,4 @@ It&#8217;s not though. I&#8217;m surprised that Apple&#8217;s notes don&#8217;t 
     
 > For those of you writing WebKit apps, a new Objective-C WebKit plugin API is supported that lets you put Cocoa widgetry into the Web page more easily. In addition enhancements to the Netscape Plugin API (made in conjunction with Mozilla Foundation) have been implemented for plugins that require cross-browser compatibility.
 
-For the non-geeks among us, the most exciting parts are the huge performance increases and the new HTML editing API. The former is witnessed immediately by using Safari. The HTML editing won&#8217;t appear until applications start using it. Imagine blog editing software with this built-in. You can beautify your posts without knowing HTML. Sweet.
+For the non-geeks among us, the most exciting parts are the huge performance increases and the new HTML editing API. The former is witnessed immediately by using Safari. The HTML editing won't appear until applications start using it. Imagine blog editing software with this built-in. You can beautify your posts without knowing HTML. Sweet.

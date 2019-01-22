@@ -13,6 +13,6 @@ dsq_thread_id:
 categories:
   - Technology
 ---
-#### [Slashdot | Google&#8217;s Math Puzzle](http://slashdot.org/article.pl?sid=04/09/16/139232)
+#### [Slashdot | Google's Math Puzzle](http://slashdot.org/article.pl?sid=04/09/16/139232)
 
-It&#8217;s too bad I already have a job. I&#8217;ll have to keep this in mind for a few years down the road though.
+It's too bad I already have a job. I'll have to keep this in mind for a few years down the road though.

@@ -12,9 +12,9 @@ shorturl:
 ---
 ## Shop
 
-Writing for this site and maintaining its services are a joy for me. However, the webhosting still costs me money, a cost I&#8217;d like to cover. Now, asking directly for money isn&#8217;t something I want to do. However, if you&#8217;re looking to buy something from Amazon, you can do it from here and I&#8217;ll get a percentage of the sale, at no cost to you.
+Writing for this site and maintaining its services are a joy for me. However, the webhosting still costs me money, a cost I'd like to cover. Now, asking directly for money isn't something I want to do. However, if you're looking to buy something from Amazon, you can do it from here and I'll get a percentage of the sale, at no cost to you.
 
-As an added bonus, I&#8217;m adding links to all the stuff I own or review (that&#8217;s available on Amazon). Thanks!
+As an added bonus, I'm adding links to all the stuff I own or review (that's available on Amazon). Thanks!
 
 ### Computer
 

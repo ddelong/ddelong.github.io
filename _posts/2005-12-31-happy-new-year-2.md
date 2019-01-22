@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Personal
 ---
-I haven&#8217;t thought of any resolutions, other than to stop being prematurely mysterious when hinting about announcements.
+I haven't thought of any resolutions, other than to stop being prematurely mysterious when hinting about announcements.
 
 What are yours? Have any suggestions for me? <!-- technorati tags start -->
 

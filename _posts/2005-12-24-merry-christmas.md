@@ -13,4 +13,4 @@ categories:
 ---
 Merry Christmas to all the Christians in the audience. I hope you find your hopes and dreams under the tree.
 
-Hopefully I&#8217;ll have a big announcement to share with y&#8217;all soon.
+Hopefully I'll have a big announcement to share with y'all soon.

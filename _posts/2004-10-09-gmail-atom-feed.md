@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Technology
 ---
-Like RSS/Atom feeds? Have Gmail? Let&#8217;s combine the two!
+Like RSS/Atom feeds? Have Gmail? Let's combine the two!
 
 Fire up your RSS reader and plug this URL into it: <https://gmail.google.com/gmail/feed/atom>
 

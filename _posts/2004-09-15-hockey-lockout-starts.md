@@ -19,4 +19,4 @@ _(Via [The New York Times](http://nytimes.com).)_
 
 Well, it happened, as predicted for months. Whom the blame should be placed upon is not clear. What is clear that both the owners and players have their own respective share of the blame at this point.
 
-I was really looking to forward to hockey this year as I didn&#8217;t have time to follow last year with all my senior year responsibilities. Now I&#8217;ll be reduced to following the U-Mass Hockey Team with almost stalker level obsession. That&#8217;s not what anyone wants.
+I was really looking to forward to hockey this year as I didn't have time to follow last year with all my senior year responsibilities. Now I'll be reduced to following the U-Mass Hockey Team with almost stalker level obsession. That's not what anyone wants.

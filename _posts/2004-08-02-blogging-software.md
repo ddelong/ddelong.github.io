@@ -14,10 +14,10 @@ categories:
   - Blogging
   - Site News
 ---
-I&#8217;ve been using MovableType to run my blog here and it&#8217;s been working great.
+I've been using MovableType to run my blog here and it's been working great.
 
-However, MovableType 3.0 and up are no longer free. For now, the current version of MovableType I&#8217;m using is sufficient, but I&#8217;m concerned about long term viability.
+However, MovableType 3.0 and up are no longer free. For now, the current version of MovableType I'm using is sufficient, but I'm concerned about long term viability.
 
 The guys over at [Unsanity](http://www.unsanity.org/2004/07/29/moved-to-wordpress/) have moved to [WordPress](http://wordpress.org), which seems pretty nice as well.
 
-Does anyone have any recommendations for Blogging choices? Keep in mind, I&#8217;d like to continue to have the option to publish using [NetNewsWire](http://ranchero.com/netnewswire/), which does limit the options a bit (WordPress may be out of the running because of this). My host does supply Blogger software as part of their package as well.
+Does anyone have any recommendations for Blogging choices? Keep in mind, I'd like to continue to have the option to publish using [NetNewsWire](http://ranchero.com/netnewswire/), which does limit the options a bit (WordPress may be out of the running because of this). My host does supply Blogger software as part of their package as well.

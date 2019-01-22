@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/derik
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://godlikenerd.com
+  * I am derik (https://keybase.io/derik) on keybase.
+  * I have a public key with fingerprint 56D0 7462 D111 AF3A C6A2  E815 05E9 9FCA A800 1534
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101c78737e310b2c51b59d5cf6ccda467a24af53ee4956863e9df5ad007e2164b810a",
+            "fingerprint": "56d07462d111af3ac6a2e81505e99fcaa8001534",
+            "host": "keybase.io",
+            "key_id": "05e99fcaa8001534",
+            "kid": "0101c78737e310b2c51b59d5cf6ccda467a24af53ee4956863e9df5ad007e2164b810a",
+            "uid": "b03e7e46f217a2726a2f298625c9c019",
+            "username": "derik"
+        },
+        "service": {
+            "hostname": "godlikenerd.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1460114006,
+    "expire_in": 157680000,
+    "prev": "57bc6a007dc6251e93bed725be308d410ad9b61232c1caa47079bc252c52b49a",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJLSBVRGL5aJlpaEVlWUE4ZFCrnzPPOJXoihS56LCxEu8x5zL3T1Znr
+zKiVFSUtwoVIUhYlaRFREbkyNBJ7aWH2kAhEKE2CTMVooWlpnemxatvqcM7/fd/5
+vo//UdIsX2LM2TcX5008rKmM6bpfV+rbG386r4JDFjnEBSq4CP110CJCHTcYMQgX
+4AAEECt+RVCoAAHisQSRpBIJ6zLGRBNlReNFTZcESkVVkv2yQFWiSxoBQKE8lEXk
+h0DjMjjdMEPUjtqG6TJZSSZAEWWeQAg1XdCwrPHUDyUgUVXVsab5AYCSIDJi2HI8
+BjOHNIdmGRZ7Y5fgb3v/4v+z79JfcggIVKGirPOQERWe2dV51S/zElYxgKoHdKht
+asWUoQm1jQh3NINjT2UGpl6rXow/45BFiowINalNsrBVzLhR23ItbBWxYdh1o07A
+I7uHoh66nKLgH50gMkzCemSMMmo7hmVyAciQ2DU8YSjKAEIRADmDowejhk2DhoeQ
+FJnVA4D3Dy3z2lcQK5wlJZglgFQVECUKLyEqAD8RWXCiIhnyAo8h61ZUgKIizEus
+RR6JqleLQ0tMiwv4mU0txCQdI2RqbqlNuaMP2gtm+2ISfXPiYr398iUmLPi7ddJU
+/Iy8ck7wu9C7AieMLQvB1tXJzcdPog/ZyeGOY807vuVe2J2f8ep6/dvcReObYtfp
+l+xbJWvItc7uqsaN1R9SPs3tv/piX/qypnby+r2xuVpOudmR3JlyLoemVXQcaGko
+HOpq4ybvVB+pXJOXuXbu7r6ndtvg7S1JH8v5IXOV7wuvXK56nrqt4fsZsyl16uaz
+6fU3psvTX4obWsONM4vrik+M106+SxrOdUbvzj+cWYayt08dH1i45+NSq/9xYsP5
+tWORPSNwdGK2YOVvuBfnc081d3f19Gj5+Tvdzz05+1vGRwqH1+2qb09d0vu1YxDV
+1m1VllcUhAd+VNWAtL4rjU+6E34Cil9DHQ==
+=JYPX
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/derik
+
+==================================================================

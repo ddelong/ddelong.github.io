@@ -13,8 +13,8 @@ shorturl:
 categories:
   - Wisdom
 ---
-How does one know when to upgrade one&#8217;s computer? The answer is apparently very simple according to an upgrade forum post.
+How does one know when to upgrade one's computer? The answer is apparently very simple according to an upgrade forum post.
 
 > 😉 if u up grade ur comp do it when ur redy. 😕 😕 😕 😕 😕 😕 😀 😀 😀
 
-No, I didn&#8217;t add those smilies after the fact.
+No, I didn't add those smilies after the fact.

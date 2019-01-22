@@ -13,8 +13,8 @@ shorturl:
 categories:
   - Personal
 ---
-Like pretty much everyone else, the destruction caused by Hurricane Katrina saddened me. I have written anything about because I personally wasn&#8217;t affected (unless you count gas prices, which I don&#8217;t) and because I wouldn&#8217;t be saying anything that others had already said in a much more elegant way.
+Like pretty much everyone else, the destruction caused by Hurricane Katrina saddened me. I have written anything about because I personally wasn't affected (unless you count gas prices, which I don't) and because I wouldn't be saying anything that others had already said in a much more elegant way.
 
-I&#8217;m glad that [Henry](http://www.hbusby.com) is well.
+I'm glad that [Henry](http://www.hbusby.com) is well.
 
 I suggest donations be made to [the Salvation Army](http://www.salvationarmyusa.org).

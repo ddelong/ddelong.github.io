@@ -13,6 +13,6 @@ shorturl:
 categories:
   - Personal
 ---
-I got the opportunity to write [another article](http://www.macworld.com/weblogs/macgems/2005/08/growlprospect/index.php) for Macworld Online (I don&#8217;t know if it&#8217;ll get used in Macworld Magazine or not). Check it out.
+I got the opportunity to write [another article](http://www.macworld.com/weblogs/macgems/2005/08/growlprospect/index.php) for Macworld Online (I don't know if it'll get used in Macworld Magazine or not). Check it out.
 
-I got to review one of my favorite pieces of Mac software, [Growl](http://growl.info). In short, it manages all kinds of alerts. It&#8217;s still not 1.0, so the review is a &#8220;Promising Prospect&#8221; piece. I hope that by the time it reaches 1.0, it&#8217;s part of every good Mac user&#8217;s arsenal; it&#8217;s part of mine.
+I got to review one of my favorite pieces of Mac software, [Growl](http://growl.info). In short, it manages all kinds of alerts. It's still not 1.0, so the review is a &#8220;Promising Prospect&#8221; piece. I hope that by the time it reaches 1.0, it's part of every good Mac user's arsenal; it's part of mine.

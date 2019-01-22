@@ -13,4 +13,4 @@ dsq_thread_id:
 categories:
   - General
 ---
-[No Need to Click Here &#8211; I&#8217;m just claiming my feed at Feedster](http://feedster.com/claimfeed.php?key=92d047d79bcd6ca7f25432e192d9bb6e)
+[No Need to Click Here &#8211; I'm just claiming my feed at Feedster](http://feedster.com/claimfeed.php?key=92d047d79bcd6ca7f25432e192d9bb6e)

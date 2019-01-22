@@ -13,8 +13,8 @@ shorturl:
 categories:
   - Sports
 ---
-# You&#8217;re Fired
+# You're Fired
 
-In a bonehead maneuver, A-Rod&#8217;s swipe at Arroyo&#8217;s hand (and attempt at cheating) probably just cost the Yankees game six and possibly the ALCS.
+In a bonehead maneuver, A-Rod's swipe at Arroyo's hand (and attempt at cheating) probably just cost the Yankees game six and possibly the ALCS.
 
-I couldn&#8217;t have written it better myself.
+I couldn't have written it better myself.

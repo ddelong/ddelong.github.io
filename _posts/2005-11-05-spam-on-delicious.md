@@ -13,11 +13,11 @@ dsq_thread_id:
 categories:
   - Technology
 ---
-It&#8217;s no surprise that [Digg](http://digg.com) became a target for spam, but would you believe that [del.icio.us](http://del.icio.us) is now a target? Check [this guy](http://del.icio.us/webiest) out.
+It's no surprise that [Digg](http://digg.com) became a target for spam, but would you believe that [del.icio.us](http://del.icio.us) is now a target? Check [this guy](http://del.icio.us/webiest) out.
 
-Don&#8217;t click his link. It leads to a dummy Blogspot page containing nothing but an ad for Google&#8217;s Firefox toolbar extension. Blogspot is fast becoming a playground for spammers. Google needs to get a tighter grip on that.
+Don't click his link. It leads to a dummy Blogspot page containing nothing but an ad for Google's Firefox toolbar extension. Blogspot is fast becoming a playground for spammers. Google needs to get a tighter grip on that.
 
-At any rate, the guy labeled that single link with every technology buzzword out there in order to pollute del.icio.us. It&#8217;s amazing the stupid lengths these jackasses will go to.
+At any rate, the guy labeled that single link with every technology buzzword out there in order to pollute del.icio.us. It's amazing the stupid lengths these jackasses will go to.
 
 <!-- Technorati Tags Start -->
 

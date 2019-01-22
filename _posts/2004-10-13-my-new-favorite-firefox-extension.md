@@ -13,6 +13,6 @@ dsq_thread_id:
 categories:
   - Technology
 ---
-I&#8217;m big into Firefox right now, but I&#8217;m still a fan of Safari (if only they&#8217;d speed it up). I still miss (among other things) the reload/stop button. Apple was so clever as to realize that they were mutually exclusive (you can&#8217;t choose both at the same time at any time). That reduced them to a single button.
+I'm big into Firefox right now, but I'm still a fan of Safari (if only they'd speed it up). I still miss (among other things) the reload/stop button. Apple was so clever as to realize that they were mutually exclusive (you can't choose both at the same time at any time). That reduced them to a single button.
 
 My prayers were answered with the [Stop-or-Reload Button extension](http://v2studio.com/k/moz/). Do it up.

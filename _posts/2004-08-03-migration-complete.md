@@ -16,4 +16,4 @@ categories:
 ---
 The good new is that WordPress is a million times easier to install than MovableType. I also like its interface much better. The bad news is that its documentation, or at least the organization of the documentation is lacking.
 
-At any rate, I also moved my weblog to the root of the domain, so I&#8217;ve made a pointer from the old directory. I just hope that users that were using an RSS client to read my site will notice that the feed has moved as well (it&#8217;s linked on this page).
+At any rate, I also moved my weblog to the root of the domain, so I've made a pointer from the old directory. I just hope that users that were using an RSS client to read my site will notice that the feed has moved as well (it's linked on this page).

@@ -14,6 +14,6 @@ categories:
   - Apple
   - Macs
 ---
-Apple released new iBooks and Mac minis. All in all, the updates were really minor. The good news is that all Mac models now sport at least 512 MB of RAM. That&#8217;s pretty much the whole of the update for the minis.
+Apple released new iBooks and Mac minis. All in all, the updates were really minor. The good news is that all Mac models now sport at least 512 MB of RAM. That's pretty much the whole of the update for the minis.
 
-The iBooks on the other hand, have been bumped to 1.33 GHz and 1.42 GHz. They&#8217;ve also moved up to Radeon 9550s in lieu of Radeon 9200s. Oddly enough, the 14&#8243; also gained 9 MHz for its bus apparently. This is the only Mac I&#8217;ve read of ever to have a 142 MHz bus. That might be the only thing to make this round of revisions memorable.
+The iBooks on the other hand, have been bumped to 1.33 GHz and 1.42 GHz. They've also moved up to Radeon 9550s in lieu of Radeon 9200s. Oddly enough, the 14&#8243; also gained 9 MHz for its bus apparently. This is the only Mac I've read of ever to have a 142 MHz bus. That might be the only thing to make this round of revisions memorable.

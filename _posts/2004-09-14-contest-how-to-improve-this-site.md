@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Site News
 ---
-I&#8217;ll give a Gmail invite to the person with the best idea on how to improve my site here. In the case that there are several really great ideas, I may give out a couple.
+I'll give a Gmail invite to the person with the best idea on how to improve my site here. In the case that there are several really great ideas, I may give out a couple.
 
 Valid types of ideas are:
 

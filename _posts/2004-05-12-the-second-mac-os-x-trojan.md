@@ -13,8 +13,8 @@ dsq_thread_id:
 categories:
   - Macs
 ---
-According to [Maccentral](http://maccentral.macworld.com/news/2004/05/12/intego/), [Intego](http://www.intego.com) is warning about another &#8220;trojan&#8221; virus for OS X. I use that in quotes because although it may match the technical definition, it&#8217;s hardly a threat, nor is it the result of some kind of security hole.
+According to [Maccentral](http://maccentral.macworld.com/news/2004/05/12/intego/), [Intego](http://www.intego.com) is warning about another &#8220;trojan&#8221; virus for OS X. I use that in quotes because although it may match the technical definition, it's hardly a threat, nor is it the result of some kind of security hole.
 
-As others have said this is a &#8220;social engineering exploit&#8221;, preying on the stupidity of computer users. This Applescript is simply disguised with a custom icon, causing users to trust that it&#8217;s a Microsoft Office 2004 installer.
+As others have said this is a &#8220;social engineering exploit&#8221;, preying on the stupidity of computer users. This Applescript is simply disguised with a custom icon, causing users to trust that it's a Microsoft Office 2004 installer.
 
 The reporting user explained that he downloaded the file through Limewire, thinking that it was a &#8220;beta&#8221; of Office. Yeah, and maybe burying Skittles will really yield a rainbow. Those who download this &#8220;trojan&#8221; and run it get what they deserve.

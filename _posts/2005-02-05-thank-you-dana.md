@@ -15,4 +15,4 @@ categories:
 ---
 [Dana](http://xandriamd87.blogspot.com) has brought something to my attention. I love churros as much as anyone else, but I think Google might be a little confused.
 
-[One of these things is not like the other.](http://images.google.com/images?q=churros&num=100&hl=en&lr=&safe=off&output=search) Look carefully. I think y&#8217;all can figure it out.
+[One of these things is not like the other.](http://images.google.com/images?q=churros&num=100&hl=en&lr=&safe=off&output=search) Look carefully. I think y'all can figure it out.

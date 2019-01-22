@@ -13,4 +13,4 @@ dsq_thread_id:
 categories:
   - Personal
 ---
-I was checking activity on my credit cards today only to find a $15 charge I couldn&#8217;t remember. Then it came to me. The free Senseo carried a $15 shipping and handling charge. It was placed on my card on Monday which means it could arrive any day now. Then I can be all jacked on coffee at home too.
+I was checking activity on my credit cards today only to find a $15 charge I couldn't remember. Then it came to me. The free Senseo carried a $15 shipping and handling charge. It was placed on my card on Monday which means it could arrive any day now. Then I can be all jacked on coffee at home too.

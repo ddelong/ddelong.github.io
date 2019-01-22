@@ -24,7 +24,7 @@ The [Powermacs](http://www.apple.com/powermac/) got a boost with DDR2 RAM (which
   * Improves responsiveness during Spotlight searches in the Finder.
   * Spotlight comments entered in the Finder are now preserved when using iDisk syncing.
   * Get Info windows correctly display non-Roman language versions and copyright strings.
-  * Improves the alert that appears when replacing an item during a copy when the capitalization of the items&#8217; names is the only difference.
+  * Improves the alert that appears when replacing an item during a copy when the capitalization of the items' names is the only difference.
   * Permissions for items inside packages are now correctly set when applying permission changes to enclosed items in the Finder Info window.
   * Items copied into a Drop Box have permissions set correctly.
   * Addresses an issue in which Spotlight cannot find a file after using iPhoto to rename it if the filename originally contained an ampersand (&).
@@ -36,10 +36,10 @@ The [Powermacs](http://www.apple.com/powermac/) got a boost with DDR2 RAM (which
   * Improves compatibility of Safari with many webcams.
   * Improves the handling of Hebrew and Arabic text in Safari and Mail.
   * Improves compatibility for OpenGL-accelerated Macromedia Shockwave 3D webpage content when using Safari.
-  * Addresses an issue in which an SMB volume might not mount again after it&#8217;s unmounted.
+  * Addresses an issue in which an SMB volume might not mount again after it's unmounted.
   * Addresses some issues in which the Finder might not be able to connect to an SMB volume.
   * Bluetooth Setup Assistant now lets you toggle the Modem menu extra on or off (you can also use System Preferences).
-  * Resolves an issue in which Internet Connect wouldn&#8217;t connect to a dial-up ISP if the account password contained a double-quote (&#8220;) character.
+  * Resolves an issue in which Internet Connect wouldn't connect to a dial-up ISP if the account password contained a double-quote (&#8220;) character.
   * Improves compatibility with Squid proxy servers. 
 
 ### Syncing
@@ -53,7 +53,7 @@ The [Powermacs](http://www.apple.com/powermac/) got a boost with DDR2 RAM (which
   * Addresses an issue in which Mail might prompt you to download items attached to an IMAP email message more than once.
   * In the Fonts & Colors preferences in Mail, you can now customize the font used in the list of Mailbox names.
   * Smart Mailboxes that use &#8220;Entire Message Contains&#8221; and another criteria with the &#8220;any&#8221; qualifier now work as expected.
-  * Smart Groups of addresses can now be dragged from Address Book to a message&#8217;s To, Cc, or Bcc field.
+  * Smart Groups of addresses can now be dragged from Address Book to a message's To, Cc, or Bcc field.
   * The number of messages in a Smart Mailbox are now displayed in the title bar.
   * Pressing Tab while composing a Mail message now inserts a tab character, instead of four spaces.
   * Accounts created in Mail after installing this update will avoid an issue in which .Mac mail could not be sent if the Internet Service Provider blocks port 25.
@@ -88,12 +88,12 @@ The [Powermacs](http://www.apple.com/powermac/) got a boost with DDR2 RAM (which
   * Addresses an issue in which some Traditional Chinese input methods, such as Pinyin, limit the number of candidate characters presented in the candidate window.
   * Resolves an issue for Palm Desktop software in which the Command-Q keyboard shortcut would sometimes not quit the application unless it was pressed a second time.
   * Improves compatibility with Microsoft IntelliPoint mouse modifier clicking; that is, mouse buttons configured to act as a Control-click or Command-click, for example.
-  * Improves window scrolling when dragging an item into a window that&#8217;s viewed as a list, where not all of the list is visible.
+  * Improves window scrolling when dragging an item into a window that's viewed as a list, where not all of the list is visible.
   * Improves compatibility with Microsoft Word and Excel 2004, addressing an issue in which the application could stop responding for several seconds.
   * Addresses an issue in which cases and/or specific user conversion dictionaries could be disabled after upgrading to Tiger.
   * Addresses performance issues affecting three AppleScript commands: do shell script, system info, and delay.
   * The Core Data framework has been updated to improve relationship management issues, resolve issues with data migration, improve Undo and Redo commands, and improve insertion performance.
-  * Resolves a potential redraw issue in which an application window&#8217;s scroll bars could appear in the wrong place.
+  * Resolves a potential redraw issue in which an application window's scroll bars could appear in the wrong place.
   * Allows Apple Wireless Keyboards to work in single-user mode.
   * Addresses an issue in which high ASCII characters in a password could lead to a blue screen at startup, or prevent log in.
   * MS-DOS-formatted volumes, including the iPod Shuffle, perform better and consistently mount (become available) in the Finder.

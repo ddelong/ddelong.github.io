@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Technology
 ---
-I don&#8217;t care what you are doing tomorrow. You&#8217;re going to make the time to get Firefox 1.0. Places that will most likely have download links:
+I don't care what you are doing tomorrow. You're going to make the time to get Firefox 1.0. Places that will most likely have download links:
 
   * [Mozilla](http://mozilla.org)
   * [Mozillazine](http://mozillazine.org)
@@ -21,4 +21,4 @@ I don&#8217;t care what you are doing tomorrow. You&#8217;re going to make the t
   * [Get Firefox](http://getfirefox.com)
   * [Slashdot](http://slashdot.org)
 
-It&#8217;s likely to be a bandwidth bonanza, so be sure to find a mirror or BitTorrent feed.
+It's likely to be a bandwidth bonanza, so be sure to find a mirror or BitTorrent feed.

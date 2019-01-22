@@ -15,7 +15,7 @@ categories:
 ---
 Apple has released yet another [security update](http://docs.info.apple.com/article.html?artnum=301061). Fire up Software Update.
 
-Here&#8217;s what&#8217;s updated, followed by my explanation:
+Here's what's updated, followed by my explanation:
 
 > **AFP Server**
     
@@ -51,7 +51,7 @@ This is slightly worse. Basically, a Drop Box is supposed to be a place where pe
     
 > _Description:_ The Bluetooth Setup Assistant may be launched on systems without a keyboard or a preconfigured Bluetooth input device. In these cases, access to certain privileged functions has been disabled within the Bluetooth Setup Assistant.
 
-This limits the amount of influence an entirely new Bluetooth device has. Otherwise it might do something malicious. I can&#8217;t say much more. This writeup is really vague.
+This limits the amount of influence an entirely new Bluetooth device has. Otherwise it might do something malicious. I can't say much more. This writeup is really vague.
 
 > **Core Foundation** _Available for:_ Mac OS X v10.3.8, Mac OS X Server v10.3.8
     
@@ -61,7 +61,7 @@ This limits the amount of influence an entirely new Bluetooth device has. Otherw
     
 > _Description:_ The incorrect handling of an environment variable within Core Foundation can result in a buffer overflow that may be used to execute arbitrary code. This issue has been addressed by correctly handling the environment variable. Credit to iDEFENSE and Adriano Lima of SeedSecurity.com for reporting this issue.
 
-This is **bad**. Unix has data one can set called environment variables. They&#8217;re very commonly used by programmers. Basically, by formatting the data being inserted into one of these slots in a certain way will allow any program to run without restriction. That means a trojan could do anything.
+This is **bad**. Unix has data one can set called environment variables. They're very commonly used by programmers. Basically, by formatting the data being inserted into one of these slots in a certain way will allow any program to run without restriction. That means a trojan could do anything.
 
 > **Cyrus IMAP**
     
@@ -95,7 +95,7 @@ This has the same effect as the last one.
     
 > _Impact:_ World-writable permissions on several directories, allowing potential file race conditions or local privilege escalation.
     
-> _Description:_ Secure folder permissions are applied to protect the installer&#8217;s receipt cache and system-level ColorSync profiles. Credit to Eric Hall of DarkArt Consulting Services, Michael Haller (info@cilly.com), and (root at addcom.de) for reporting this issue. 
+> _Description:_ Secure folder permissions are applied to protect the installer's receipt cache and system-level ColorSync profiles. Credit to Eric Hall of DarkArt Consulting Services, Michael Haller (info@cilly.com), and (root at addcom.de) for reporting this issue. 
 
 Certain parts of the filesystem were left with permissions that allowed arbitrary data be written to them (which means a malicious program could be written out or tons of data that would be hard to track down).
 
@@ -107,7 +107,7 @@ Certain parts of the filesystem were left with permissions that allowed arbitrar
     
 > _Impact:_ Directory traversal issue in Mailman that could allow access to arbitrary files.
     
-> _Description:_ Mailman is a software package that provides mailing list management. This update addresses an exposure in Mailman&#8217;s private archive handling that allowed remote access to arbitrary files on the system. Further information is available from http://www.gnu.org/software/mailman/security.html.
+> _Description:_ Mailman is a software package that provides mailing list management. This update addresses an exposure in Mailman's private archive handling that allowed remote access to arbitrary files on the system. Further information is available from http://www.gnu.org/software/mailman/security.html.
 
 Server only again. This allowed remote people to access arbitrary parts of the system, reading your private data or writing in malicious programs.
 

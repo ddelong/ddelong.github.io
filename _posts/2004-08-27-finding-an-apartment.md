@@ -13,8 +13,8 @@ dsq_thread_id:
 categories:
   - Personal
 ---
-The week after next I&#8217;ll be working in Woburn instead of Bedford. This makes for a longer commute from my home. My parents will also be selling this house and moving up to Maine.
+The week after next I'll be working in Woburn instead of Bedford. This makes for a longer commute from my home. My parents will also be selling this house and moving up to Maine.
 
-This adds up to me needing a new apartment of my very own. I&#8217;ve never gotten an apartment before so this will be a new experience. My friends that have gotten an apartment have done so through people they knew at school.
+This adds up to me needing a new apartment of my very own. I've never gotten an apartment before so this will be a new experience. My friends that have gotten an apartment have done so through people they knew at school.
 
 Does anyone have any recommendations as to where to start? Maybe someone living in MA already knows of a good place in the Woburn area.

@@ -14,9 +14,9 @@ categories:
   - Site News
   - Tag Central
 ---
-I&#8217;ve started work on the [Tag Central project](/weblog/2005/03/03/tag-central/) I talked about previously. It currently uses the various RSS feeds that the suppported sites spit out. Unfortunately, this also means no [Technorati](http://www.technorati.com) tags. Unless I&#8217;m totally out of my mind, they don&#8217;t supply easily accessed RSS feeds.
+I've started work on the [Tag Central project](/weblog/2005/03/03/tag-central/) I talked about previously. It currently uses the various RSS feeds that the suppported sites spit out. Unfortunately, this also means no [Technorati](http://www.technorati.com) tags. Unless I'm totally out of my mind, they don't supply easily accessed RSS feeds.
 
-Right now, I&#8217;m not using a database, but instead just using the standard file based caching built into [MagpieRSS](http://magpierss.sourceforge.net/) which is processing all the feeds for me. Space may become an issue if this site becomes popular. I&#8217;d hate to not cache, but as I&#8217;m not getting paid for this _yet_, I can&#8217;t afford to use gigantic amounts of space.
+Right now, I'm not using a database, but instead just using the standard file based caching built into [MagpieRSS](http://magpierss.sourceforge.net/) which is processing all the feeds for me. Space may become an issue if this site becomes popular. I'd hate to not cache, but as I'm not getting paid for this _yet_, I can't afford to use gigantic amounts of space.
 
 #### Currently supported services
 
@@ -30,10 +30,10 @@ Right now, I&#8217;m not using a database, but instead just using the standard f
 
   * [Furl](http://furl.net)
 
-#### Services I&#8217;d like to add if I can find RSS feeds for their tags
+#### Services I'd like to add if I can find RSS feeds for their tags
 
   * [Technorati](http://technorati.com)
   * [Smugmug](http://smugmug.com)
   * [Genielab](http://genielab.com)
 
-With all that info out of the way, go [check it out](/tagcentral/). Let me know what you think. I&#8217;d love to hear any feedback. That includes how you think it should be laid out and look.
+With all that info out of the way, go [check it out](/tagcentral/). Let me know what you think. I'd love to hear any feedback. That includes how you think it should be laid out and look.

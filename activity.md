@@ -12,7 +12,7 @@ shorturl:
 ---
 ## Activity
 
-Follow what I&#8217;m doing all around the web. RSS feeds of this activity is provided if possible. Below is a small sampling.
+Follow what I'm doing all around the web. RSS feeds of this activity is provided if possible. Below is a small sampling.
 
 ## Recent Activity [![XML Feed](/buttons/xml.gif)](http://planet.godlikenerd.com/rss20.xml "XML Feed for my recent activity online")
 
@@ -53,13 +53,13 @@ Read even more at [Planet d00dism](http://planet.godlikenerd.com).
     <span class="rssLinkListItemTitle"><a href="http://tools.netgear.com/skype/" title="All it needs is a WiFi connection?  Now this will give Skype some momentum.">Blog Supplemental: NETGEAR Skype Phone</a></span>
   </li>
   <li>
-    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/8842" title="Mezmerizeby System of a DownPretty weak album overall.  It&#8217;s extremely short and the songs generally don&#8217;t offer anything new or particularly good.">All Consuming: A story about "Mezmerize"</a></span>
+    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/8842" title="Mezmerizeby System of a DownPretty weak album overall.  It's extremely short and the songs generally don't offer anything new or particularly good.">All Consuming: A story about "Mezmerize"</a></span>
   </li>
   <li>
-    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/8220" title="We Were Soldiers (Widescreen Edition)by Randall WallaceThe movie has some good moments, but it dragged a lot in the middle.  It&#8217;s simply not as good as some others.">All Consuming: A story about "We Were Soldiers (Widescreen Edition)"</a></span>
+    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/8220" title="We Were Soldiers (Widescreen Edition)by Randall WallaceThe movie has some good moments, but it dragged a lot in the middle.  It's simply not as good as some others.">All Consuming: A story about "We Were Soldiers (Widescreen Edition)"</a></span>
   </li>
   <li>
-    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/8186" title="Cool Hand LukeThis movie is the very embodiement of the classic genre.  I don&#8217;t think there&#8217;s a single bad thing I can say.  I&#8217;m also now convinced that Paul Newman is the man.">All Consuming: A story about "Cool Hand Luke"</a></span>
+    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/8186" title="Cool Hand LukeThis movie is the very embodiement of the classic genre.  I don't think there's a single bad thing I can say.  I'm also now convinced that Paul Newman is the man.">All Consuming: A story about "Cool Hand Luke"</a></span>
   </li>
   <li>
     <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/301" title="Everything Is Illuminated: A Novelby Jonathan Safran FoerBest book I ever read.">All Consuming: A story about "Everything Is Illuminated: A Novel"</a></span>
@@ -68,10 +68,10 @@ Read even more at [Planet d00dism](http://planet.godlikenerd.com).
     <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/300" title="Programming Ruby: The Pragmatic Programmers' Guide, Second Editionby Dave ThomasThe writing style of this book is both informative and interesting, being neither boring or overly comical.">All Consuming: A story about "Programming Ruby: The Pragmatic Programmers' Guide, Second Edition"</a></span>
   </li>
   <li>
-    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/299" title="Hotel Rwandaby Terry GeorgeIf you&#8217;re ok with a really serious movie, check this one out.">All Consuming: A story about "Hotel Rwanda"</a></span>
+    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/299" title="Hotel Rwandaby Terry GeorgeIf you're ok with a really serious movie, check this one out.">All Consuming: A story about "Hotel Rwanda"</a></span>
   </li>
   <li>
-    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/298" title="The Da Vinci Codeby Dan BrownI&#8217;m about halfway through the book.  It&#8217;s starting to get pretty interesting but still seems to suffer from trying to plod the reader along with a carrot.">All Consuming: A story about "The Da Vinci Code"</a></span>
+    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/298" title="The Da Vinci Codeby Dan BrownI'm about halfway through the book.  It's starting to get pretty interesting but still seems to suffer from trying to plod the reader along with a carrot.">All Consuming: A story about "The Da Vinci Code"</a></span>
   </li>
   <li>
     <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/297" title="Leave a Whisperby ShinedownTo be honest, the acoustic tracks that are part of the bonus section are the best.">All Consuming: A story about "Leave a Whisper"</a></span>
@@ -80,10 +80,10 @@ Read even more at [Planet d00dism](http://planet.godlikenerd.com).
     <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/296" title="KaliforniaBrad Pitt should never do that awful, awful southern accent again.">All Consuming: A story about "Kalifornia"</a></span>
   </li>
   <li>
-    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/295" title="Ocean's Twelveby Steven SoderberghI really liked Ocean&#8217;s Eleven, but I had a problem paying attention through the film.  It felt like just more of the same.">All Consuming: A story about "Ocean's Twelve"</a></span>
+    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/295" title="Ocean's Twelveby Steven SoderberghI really liked Ocean's Eleven, but I had a problem paying attention through the film.  It felt like just more of the same.">All Consuming: A story about "Ocean's Twelve"</a></span>
   </li>
   <li>
-    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/294" title="13 Conversations About One ThingAnother Netflix selection that I had high hopes for.  Unfortunately, it didn&#8217;t do all that much for me.  I barely paid attention.">All Consuming: A story about "13 Conversations About One Thing"</a></span>
+    <span class="rssLinkListItemTitle"><a href="http://www.allconsuming.net/entry/view/294" title="13 Conversations About One ThingAnother Netflix selection that I had high hopes for.  Unfortunately, it didn't do all that much for me.  I barely paid attention.">All Consuming: A story about "13 Conversations About One Thing"</a></span>
   </li>
   <li>
     <span class="rssLinkListItemTitle"><a href="http://www.netflix.com/Movie/A-Good-Old-Fashioned-Orgy/70117584" title="Shipped on 01/06/12.When his father opts to sell the family vacation house in the Hamptons, a sophomoric 30-year-old (Jason Sudeikis) realizes the home's tradition of summer parties will soon end. So he decides to go out with a bang -- with many bangs, actually -- by throwing an orgy. Enlisting the ">Netflix: Shipped: A Good Old Fashioned Orgy</a></span>

@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Wisdom
 ---
-I just couldn&#8217;t resist posting up this piece of spam.
+I just couldn't resist posting up this piece of spam.
 
 > **Subject:** please call me Frank
      

@@ -13,21 +13,21 @@ dsq_thread_id:
 categories:
   - General
 ---
-It didn&#8217;t pay to roll out of bed early this morning to catch the news. Even with the Christmas (and other holidays) closing in quickly, we have to deal with the harsh reality that is, well, everything outside of the holiday advertising that we get inundated with every year.
+It didn't pay to roll out of bed early this morning to catch the news. Even with the Christmas (and other holidays) closing in quickly, we have to deal with the harsh reality that is, well, everything outside of the holiday advertising that we get inundated with every year.
 
 ### Former Pantera Band Member Death
 
-At a show in Columbus, Ohio last night, Damage Plan&#8217;s Dimebag Darrell, formerly of Pantera, was [shot and killed](http://www.undercover.com.au/news/2004/dec04/20041209_damageplan.html). A deranged gumnan rushed the stage and accused Darrell of breaking up Pantera before pulling out a gun and killing four others before being shot and killed by a police officer.
+At a show in Columbus, Ohio last night, Damage Plan's Dimebag Darrell, formerly of Pantera, was [shot and killed](http://www.undercover.com.au/news/2004/dec04/20041209_damageplan.html). A deranged gumnan rushed the stage and accused Darrell of breaking up Pantera before pulling out a gun and killing four others before being shot and killed by a police officer.
 
-The drummer at the show was also reportedly killed. Normally, the drummer is Darrell&#8217;s brother, Vinnie Paul, who was also a member of Pantera. However, it has not been confirmed that indeed Vinnie has also been slain yet.
+The drummer at the show was also reportedly killed. Normally, the drummer is Darrell's brother, Vinnie Paul, who was also a member of Pantera. However, it has not been confirmed that indeed Vinnie has also been slain yet.
 
-It&#8217;s absolutely sick how seriously people will take their favorite bands. It&#8217;s music people. Nothing more. This one jackass has ruined things for so many people and will likely cause even more stringent security policies. To be honest, this guy deserved what he got and now everyone involved can move on instead of moving ahead with a farce of a trial that would ultimately land the shooter in a mental institution. This of course would be a futile measure as anyone that takes music that seriously has some so wrong at his core that he could not be saved.
+It's absolutely sick how seriously people will take their favorite bands. It's music people. Nothing more. This one jackass has ruined things for so many people and will likely cause even more stringent security policies. To be honest, this guy deserved what he got and now everyone involved can move on instead of moving ahead with a farce of a trial that would ultimately land the shooter in a mental institution. This of course would be a futile measure as anyone that takes music that seriously has some so wrong at his core that he could not be saved.
 
 ### U-Mass Senior Shot Dead by Westfield Resident
 
-A University of Massachusetts student was [shot and killed in the very bedroom](http://www.masslive.com/springfield/republican/index.ssf?/base/news-8/110258208757980.xml) of the accused shooter. Apparently, he was shot several times with a rifle. It&#8217;s not known whether the shooter will be found competent to stand trial (see above for my thoughts on that).
+A University of Massachusetts student was [shot and killed in the very bedroom](http://www.masslive.com/springfield/republican/index.ssf?/base/news-8/110258208757980.xml) of the accused shooter. Apparently, he was shot several times with a rifle. It's not known whether the shooter will be found competent to stand trial (see above for my thoughts on that).
 
-Ever since I decided to go to U-Mass at Amherst and my ex-girlfriend decided to go to Westfield State, that the two towns have been intrisically linked for me. First, it was all positive things including my brother going to Westfield and his former girlfriend going to U-Mass and my brother becoming a U-Mass police cadet. Now it&#8217;s even linked in tragedy.
+Ever since I decided to go to U-Mass at Amherst and my ex-girlfriend decided to go to Westfield State, that the two towns have been intrisically linked for me. First, it was all positive things including my brother going to Westfield and his former girlfriend going to U-Mass and my brother becoming a U-Mass police cadet. Now it's even linked in tragedy.
 
 ### Radio Legend David Brudnoy Says Goodbye
 

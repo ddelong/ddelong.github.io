@@ -1,6 +1,6 @@
 ---
 id: 388
-title: 'Apostrophe?  What&#8217;s that?'
+title: 'Apostrophe?  What's that?'
 date: 2005-04-06T21:16:57+00:00
 author: Derik
 layout: single

@@ -17,4 +17,4 @@ With that, our first contribution:
 
 > u blaze, ur sexy n u know it lol&#8230; nah but if u cool peoples, have anything in coomon with me&#8230; go to job corps or have gone&#8230; lyk the same music as me n jus lyk to chill n bug out.. smoke.. laugh&#8230; w/e.. than holla at me..
 
-I couldn&#8217;t make this shit up if I tried.
+I couldn't make this shit up if I tried.

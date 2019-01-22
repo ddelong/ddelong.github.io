@@ -13,8 +13,8 @@ shorturl:
 categories:
   - Technology
 ---
-I&#8217;ve been preaching about [Firefox](http://www.spreadfirefox.com/?q=affiliates&id=1747) for some time now. Most everyone I know has switched from Internet Explorer and loved the change.
+I've been preaching about [Firefox](http://www.spreadfirefox.com/?q=affiliates&id=1747) for some time now. Most everyone I know has switched from Internet Explorer and loved the change.
 
-With the Firefox 1.0 release fast approaching, [Spreadfirefox.com](http://www.spreadfirefox.com) (caution, it&#8217;s currently being slashdotted, so you may not be able to get the page) is raising money for a full page advertisement in the New York Times to gain even more users. $30 will get your name in the ad (only $10 for students; I&#8217;m looking at you Dana, Katie, and Scott). [Donate here](https://mozillastore.com/donations/?campaign=newspaper&user=1747).
+With the Firefox 1.0 release fast approaching, [Spreadfirefox.com](http://www.spreadfirefox.com) (caution, it's currently being slashdotted, so you may not be able to get the page) is raising money for a full page advertisement in the New York Times to gain even more users. $30 will get your name in the ad (only $10 for students; I'm looking at you Dana, Katie, and Scott). [Donate here](https://mozillastore.com/donations/?campaign=newspaper&user=1747).
 
 I encourage everyone who uses and loves this browser to contribute something. With your help and support, Firefox can become the predominant browser on the web.

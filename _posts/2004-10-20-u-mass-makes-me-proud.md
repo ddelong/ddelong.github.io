@@ -16,4 +16,4 @@ categories:
 ---
 In response to the Red Sox victory in game six, thousands of University of Massachusetts [gathered in Southwest, only to have 35 arrested](http://sports.yahoo.com/mlb/news?slug=ap-alcs-umass&prov=ap&type=lgns).
 
-Who says we don&#8217;t still got it? Tonight will be incredible. I&#8217;d expect thousands more to gather at the conclusion of the game. I hope my brother and the rest of the U-Mass police are ready.
+Who says we don't still got it? Tonight will be incredible. I'd expect thousands more to gather at the conclusion of the game. I hope my brother and the rest of the U-Mass police are ready.

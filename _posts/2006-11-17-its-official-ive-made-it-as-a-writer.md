@@ -1,6 +1,6 @@
 ---
 id: 611
-title: 'It&#8217;s Official: I&#8217;ve Made It as a Writer'
+title: 'It's Official: I've Made It as a Writer'
 date: 2006-11-17T00:52:03+00:00
 author: Derik
 layout: single
@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Personal
 ---
-Thanks to my [article about a bullshit Steve Jobs interview](http://www.macuser.com/people/steve_jobs_interview_not.php), I&#8217;ve gotten my first threat.
+Thanks to my [article about a bullshit Steve Jobs interview](http://www.macuser.com/people/steve_jobs_interview_not.php), I've gotten my first threat.
 
 > 12:11:04 AM mmskmmskmmsk: dlong
     
@@ -29,7 +29,7 @@ Thanks to my [article about a bullshit Steve Jobs interview](http://www.macuser.
     
 > 12:12:00 AM mmskmmskmmsk: the article on that site was not proven fake
     
-> 12:12:11 AM dbasstard: oh, you&#8217;re an ewoky guy!
+> 12:12:11 AM dbasstard: oh, you're an ewoky guy!
     
 > Changed status to Online (12:12:11 AM)
     
@@ -39,7 +39,7 @@ Thanks to my [article about a bullshit Steve Jobs interview](http://www.macuser.
     
 > 12:12:24 AM mmskmmskmmsk: but ive followed this since last night
     
-> 12:12:34 AM mmskmmskmmsk: and you&#8217;re acting like a retard trying to cash in
+> 12:12:34 AM mmskmmskmmsk: and you're acting like a retard trying to cash in
     
 > 12:12:51 AM dbasstard: so, is it Chris? or Lethal?
     
@@ -47,15 +47,15 @@ Thanks to my [article about a bullshit Steve Jobs interview](http://www.macuser.
     
 > 12:13:05 AM mmskmmskmmsk: because you are
     
-> 12:13:15 AM mmskmmskmmsk: because you&#8217;re trying to fuck up someones site
+> 12:13:15 AM mmskmmskmmsk: because you're trying to fuck up someones site
     
 > 12:13:21 AM mmskmmskmmsk: the shit was explained
     
 > 12:13:29 AM mmskmmskmmsk: but no, you had to go and fuck with them
     
-> 12:13:30 AM dbasstard: no, I&#8217;m pointing out a fraudulent article
+> 12:13:30 AM dbasstard: no, I'm pointing out a fraudulent article
     
-> 12:13:38 AM mmskmmskmmsk: no you&#8217;re not
+> 12:13:38 AM mmskmmskmmsk: no you're not
     
 > 12:13:41 AM mmskmmskmmsk: it wasnt proven
     

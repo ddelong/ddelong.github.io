@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Macs
 ---
-Apple released [Security Update 2005-006](http://docs.info.apple.com/article.html?artnum=301742). I&#8217;m not going to do my breakdown this time as I&#8217;m pretty busy. However, Apple&#8217;s notes should be fairy self-explanatory. <!--more-->
+Apple released [Security Update 2005-006](http://docs.info.apple.com/article.html?artnum=301742). I'm not going to do my breakdown this time as I'm pretty busy. However, Apple's notes should be fairy self-explanatory. <!--more-->
 
   * **AFP Server**
   
@@ -71,7 +71,7 @@ Apple released [Security Update 2005-006](http://docs.info.apple.com/article.htm
   
     **Impact:** Potential file race condition via world- and group-writable permissions on two directories.
   
-    **Description:** Secure folder permissions are applied to protect the system&#8217;s cache folder and Dashboard system widgets. This exposure does not exist in systems prior to Mac OS X v10.4. Credit to Michael Haller at info@cilly.com for reporting this issue.
+    **Description:** Secure folder permissions are applied to protect the system's cache folder and Dashboard system widgets. This exposure does not exist in systems prior to Mac OS X v10.4. Credit to Michael Haller at info@cilly.com for reporting this issue.
 
   * **launchd**
   
@@ -109,7 +109,7 @@ Apple released [Security Update 2005-006](http://docs.info.apple.com/article.htm
   
     **Available for:** Mac OS X v10.4.1, Mac OS X Server v10.4.1
   
-    **Impact:** An NFS export that&#8217;s restricted using -network and -mask flags will export to &#8220;everyone.&#8221;
+    **Impact:** An NFS export that's restricted using -network and -mask flags will export to &#8220;everyone.&#8221;
   
     **Description:** The use of -network and -mask on a filesystem listed in the NFS exports file would result in that filesystem being exported to &#8220;everyone.&#8221; This update modifies the NFS exporting code to correctly set the network and mask parameters. This issue does not affect systems prior to Mac OS X 10.4.
 

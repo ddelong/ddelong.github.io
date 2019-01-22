@@ -15,7 +15,7 @@ categories:
 ---
 Dear Apple,
 
-If you&#8217;re going to publish [calendars for your iCal users](http://www.apple.com/macosx/features/ical/library/) and advertise them, keep them up to date. A movie release calendar that ends late October of last year is useless.
+If you're going to publish [calendars for your iCal users](http://www.apple.com/macosx/features/ical/library/) and advertise them, keep them up to date. A movie release calendar that ends late October of last year is useless.
 
 Your pal,
   

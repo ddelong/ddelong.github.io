@@ -13,9 +13,9 @@ dsq_thread_id:
 categories:
   - Technology
 ---
-It&#8217;s but a few days since Apple released the [Mac mini](http://www.apple.com/macmini/) and we already have a product from another cool company with a similar (ok, exactly the same) name. Google has [released the Google Mini](http://www.google.com/googleblog/2005/01/honey-we-shrunk-google.html).
+It's but a few days since Apple released the [Mac mini](http://www.apple.com/macmini/) and we already have a product from another cool company with a similar (ok, exactly the same) name. Google has [released the Google Mini](http://www.google.com/googleblog/2005/01/honey-we-shrunk-google.html).
 
-Before you plunk down $4,995 to get one of these neat blue boxes, you have to know that this isn&#8217;t a consumer device. Rather, it&#8217;s a server to index a business&#8217;s documents and facilitate searches of those documents.
+Before you plunk down $4,995 to get one of these neat blue boxes, you have to know that this isn't a consumer device. Rather, it's a server to index a business's documents and facilitate searches of those documents.
 
 > The Google Mini can provide search for up to 50,000 documents, and it supports over 220 different file types. The price includes 1 year of full customer support, software updates, and replacement coverage.
 

@@ -13,6 +13,6 @@ shorturl:
 categories:
   - Site News
 ---
-Don&#8217;t worry. I will **not** be leaving it as it looks now. It&#8217;s a work in progress. I just didn&#8217;t want to screw around installing WordPress a thousand times.
+Don't worry. I will **not** be leaving it as it looks now. It's a work in progress. I just didn't want to screw around installing WordPress a thousand times.
 
-Anyway, please litter this entry with recommendations. I already have a picture in mind for the top, so don&#8217;t worry about that. Everything else is fair game though!
+Anyway, please litter this entry with recommendations. I already have a picture in mind for the top, so don't worry about that. Everything else is fair game though!

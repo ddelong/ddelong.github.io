@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Personal
 ---
-I got home really late last night. It wasn&#8217;t because of anything even mildly exciting. Rather, my left front tire decided to die. I noticed a slow leak lately (like a couple PSI over a couple weeks) but it decided to shit the bed yesterday.
+I got home really late last night. It wasn't because of anything even mildly exciting. Rather, my left front tire decided to die. I noticed a slow leak lately (like a couple PSI over a couple weeks) but it decided to shit the bed yesterday.
 
 I stopped at a gas station near work. Guess what. It was broken. I put 75 cents into a broken air pump. That flipped my Hulk rage switch. I had to put the donut on the car and drive home.
 

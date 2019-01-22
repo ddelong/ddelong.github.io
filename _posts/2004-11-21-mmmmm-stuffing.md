@@ -13,7 +13,7 @@ dsq_thread_id:
 categories:
   - Humor
 ---
-Katie posted [another quiz](http://www.livejournal.com/users/kayteebird/33345.html) from the same site as the last. Seeing as the question was &#8220;What part of Thanksgiving are you?&#8221; and that it&#8217;s a mere few days away, I couldn&#8217;t resist.
+Katie posted [another quiz](http://www.livejournal.com/users/kayteebird/33345.html) from the same site as the last. Seeing as the question was &#8220;What part of Thanksgiving are you?&#8221; and that it's a mere few days away, I couldn't resist.
 
 <table width="400" align="center" border="1" cellspacing="0" cellpadding="2">
   <tr>
@@ -24,7 +24,7 @@ Katie posted [another quiz](http://www.livejournal.com/users/kayteebird/33345.ht
   
   <tr>
     <td align="center" bgcolor="#FFFFFF">
-      <img src="http://www.quizdiva.net/bt/stuffing.jpg" alt="Stuffing" /><font color="#000000"><br />You&#8217;re complicated and complex, yet all your pieces fit together.<br />People miss you if you&#8217;re gone &#8211; but they&#8217;re not sure why.</font>
+      <img src="http://www.quizdiva.net/bt/stuffing.jpg" alt="Stuffing" /><font color="#000000"><br />You're complicated and complex, yet all your pieces fit together.<br />People miss you if you're gone &#8211; but they're not sure why.</font>
     </td>
   </tr>
 </table>

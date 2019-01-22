@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Technology
 ---
-I hope that no one falls for [this](http://www.freeipods.com) classic pyramid scheme, but in case you were thinking about it, please take five minutes, calm yourself down and realize that it is too good to be true. Please do not fall for this scam, nor should you let any of your friends do the same. It&#8217;s worse than falling for the $1000 Microsoft tracking email scam because you are willingly giving your address to spammers and you will receive **nothing** in return.
+I hope that no one falls for [this](http://www.freeipods.com) classic pyramid scheme, but in case you were thinking about it, please take five minutes, calm yourself down and realize that it is too good to be true. Please do not fall for this scam, nor should you let any of your friends do the same. It's worse than falling for the $1000 Microsoft tracking email scam because you are willingly giving your address to spammers and you will receive **nothing** in return.
 
 Take a look at their terms and conditions. The most important section to note is:
 

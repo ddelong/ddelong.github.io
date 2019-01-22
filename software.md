@@ -12,7 +12,7 @@ shorturl:
 ---
 ## Software Used in This Site
 
-The bulk of this site is generated using the wonderful [WordPress](http://wordpress.org). The posts are written using [Markdown](http://daringfireball.net/projects/markdown/) which gets run through Michael Fortin&#8217;s [PHP Markdown](http://www.michelf.com/projects/php-markdown/) port. I generally post at home via [MarsEdit](http://ranchero.com/marsedit/).
+The bulk of this site is generated using the wonderful [WordPress](http://wordpress.org). The posts are written using [Markdown](http://daringfireball.net/projects/markdown/) which gets run through Michael Fortin's [PHP Markdown](http://www.michelf.com/projects/php-markdown/) port. I generally post at home via [MarsEdit](http://ranchero.com/marsedit/).
 
 I use a series of WordPress plugins.
 
@@ -28,7 +28,7 @@ The [supplement](http://del.icio.us/d00d/supplement) uses [del.icio.us](http://d
 
 To maintain various parts of the site, I use [RBrowser](http://www.rbrowser.com) and [BBEdit](http://www.barebones.com/products/bbedit/index.shtml).
 
-I&#8217;d like to thank the authors of all these utilities for making things easy for me.
+I'd like to thank the authors of all these utilities for making things easy for me.
 
 ### Buttons
 

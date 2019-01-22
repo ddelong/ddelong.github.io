@@ -13,8 +13,8 @@ dsq_thread_id:
 categories:
   - Personal
 ---
-[WFXT](http://www.wfxt.com/) (aka Channel 25, the local Fox channel) has cut back on the number of times it shows the Simpsons. It formerly aired reruns at both 6:30 and 7:30 (about which no one complained). In fact, nearly all my friends watched both airings, because, let&#8217;s face it, you just can&#8217;t get enough Simpsons (and with more than 13 seasons, it&#8217;s likely you haven&#8217;t seen them all either).
+[WFXT](http://www.wfxt.com/) (aka Channel 25, the local Fox channel) has cut back on the number of times it shows the Simpsons. It formerly aired reruns at both 6:30 and 7:30 (about which no one complained). In fact, nearly all my friends watched both airings, because, let's face it, you just can't get enough Simpsons (and with more than 13 seasons, it's likely you haven't seen them all either).
 
-Like they did with Sunday nights (canceling my beloved Futurama), they decided to fix something that wasn&#8217;t broken. They&#8217;ve shoved Malcolm in the Middle into the 6:30 slot. Don&#8217;t get me wrong, I like Malcolm. Only in small doses though. Every Sunday is almost too much already.
+Like they did with Sunday nights (canceling my beloved Futurama), they decided to fix something that wasn't broken. They've shoved Malcolm in the Middle into the 6:30 slot. Don't get me wrong, I like Malcolm. Only in small doses though. Every Sunday is almost too much already.
 
-Sure, I&#8217;m not going to do anything about it, but I refuse to watch Malcom in the Middle every night. I&#8217;ll be watching something else.
+Sure, I'm not going to do anything about it, but I refuse to watch Malcom in the Middle every night. I'll be watching something else.

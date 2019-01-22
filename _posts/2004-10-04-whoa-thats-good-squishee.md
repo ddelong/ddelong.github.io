@@ -1,6 +1,6 @@
 ---
 id: 167
-title: 'Whoa, that&#8217;s Good Squishee'
+title: 'Whoa, that's Good Squishee'
 date: 2004-10-04T11:22:46+00:00
 author: Derik
 layout: single

@@ -14,6 +14,6 @@ categories:
   - Blogging
   - Site News
 ---
-The blog editing software I&#8217;ve been using for a while now, [MarsEdit](http://ranchero.com/marsedit/), has [finally gone 1.0](http://ranchero.com/?comments=1&postid=982). I consider it the second most essential software I use on my site (right after WordPress). It works with a variety of blogging packages, so if you use a Mac and blog, you need to check it out.
+The blog editing software I've been using for a while now, [MarsEdit](http://ranchero.com/marsedit/), has [finally gone 1.0](http://ranchero.com/?comments=1&postid=982). I consider it the second most essential software I use on my site (right after WordPress). It works with a variety of blogging packages, so if you use a Mac and blog, you need to check it out.
 
 Congratulations Brent. I look forward to future development of this software.

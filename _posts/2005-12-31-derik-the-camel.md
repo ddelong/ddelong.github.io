@@ -13,13 +13,13 @@ shorturl:
 categories:
   - Personal
 ---
-Being the vain man that I am, I [google myself](http://www.google.com/search?q=derik) every once in a while. I feel the compulsion, if for no other reason because I&#8217;m afraid of [Derik Farnsworth](http://www.derikfarnsworth.com) overtaking me, then coming to my house to call me a girly man.
+Being the vain man that I am, I [google myself](http://www.google.com/search?q=derik) every once in a while. I feel the compulsion, if for no other reason because I'm afraid of [Derik Farnsworth](http://www.derikfarnsworth.com) overtaking me, then coming to my house to call me a girly man.
 
 Imagine my surprise when I found out that there was a story [about me as a camel](http://www.electricscotland.com/kids/stories/middleeast5.htm). I know everyone thinks of me as a camel because I have foul breath and spit a lot. Ha ha. Seriously though, the story is priceless as is the following repeated phrase.
 
 > Derik, Derik, has no hump. Derik, Derik, what a chump!
 
-It&#8217;s official. I have no hump and I am a chump.
+It's official. I have no hump and I am a chump.
 
 <!-- technorati tags start -->
 

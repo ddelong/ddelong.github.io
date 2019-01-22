@@ -13,6 +13,6 @@ shorturl:
 categories:
   - Personal
 ---
-I turned 23 as of midnight (EST). I&#8217;m a year older, a year wiser, and a year closer to being able to rent a car (the last major milestone in a person&#8217;s life as far as I can figure).
+I turned 23 as of midnight (EST). I'm a year older, a year wiser, and a year closer to being able to rent a car (the last major milestone in a person's life as far as I can figure).
 
-I had a few drinks at a local watering hole, so I&#8217;ll be cutting this entry short.
+I had a few drinks at a local watering hole, so I'll be cutting this entry short.

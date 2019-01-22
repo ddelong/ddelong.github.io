@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Sports
 ---
-So I&#8217;m currently 4 out of 5 and Henry forgot to pick confidence so he didn&#8217;t get any points (Henry, if you&#8217;re reading this, fix it before this weekend).
+So I'm currently 4 out of 5 and Henry forgot to pick confidence so he didn't get any points (Henry, if you're reading this, fix it before this weekend).
 
   1. smudie (**101**)
   2. Katie (**89**)
@@ -21,9 +21,9 @@ So I&#8217;m currently 4 out of 5 and Henry forgot to pick confidence so he didn
   4. Me (**81**)
   5. Henry (**** explained above)
 
-It&#8217;s a little embarressing. For a scot living in France, Stuart knows his football. In fact, he did better than anyone in my work football group.
+It's a little embarressing. For a scot living in France, Stuart knows his football. In fact, he did better than anyone in my work football group.
 
-Here&#8217;s my picks ordered from least confidence to most. Real winners are bold. Bold are picks that I had right. Italics are ones that I was wrong.
+Here's my picks ordered from least confidence to most. Real winners are bold. Bold are picks that I had right. Italics are ones that I was wrong.
 
   1. **Detroit** vs. Green Bay
   2. _San Diego_ vs. Dallas
@@ -42,8 +42,8 @@ Here&#8217;s my picks ordered from least confidence to most. Real winners are bo
  15. **Pittsburgh** vs. Tennessee
  16. **New England** vs. Oakland
 
-What&#8217;s interesting is that no one, save Stuart, thought New Orleans would win, not even Henry. That was a real coup. Other notable upsets were San Fransisco, Dallas, and Atlanta. As much as I hate St. Louis, I&#8217;m still surprised they lost to San Fransisco.
+What's interesting is that no one, save Stuart, thought New Orleans would win, not even Henry. That was a real coup. Other notable upsets were San Fransisco, Dallas, and Atlanta. As much as I hate St. Louis, I'm still surprised they lost to San Fransisco.
 
-Everyone thought Minnesota was going to win over Tampa Bay, but it&#8217;s looking like they&#8217;ll be the big losers this year without Moss.
+Everyone thought Minnesota was going to win over Tampa Bay, but it's looking like they'll be the big losers this year without Moss.
 
-Having seen all the teams play, it&#8217;ll be interesting to see if everyone&#8217;s accurary improves or gets worse, particularly Stuart.
+Having seen all the teams play, it'll be interesting to see if everyone's accurary improves or gets worse, particularly Stuart.

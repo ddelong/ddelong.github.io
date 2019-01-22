@@ -13,11 +13,11 @@ shorturl:
 categories:
   - Macs
 ---
-I&#8217;ve already updated all the Macs in the house with no ill effects. The most visual difference is the addition of a Widget Manager (for those afraid to fiddle around in their Library/Widgets folder).
+I've already updated all the Macs in the house with no ill effects. The most visual difference is the addition of a Widget Manager (for those afraid to fiddle around in their Library/Widgets folder).
 
 Apple has posted [a knowledge-base article (#301722)](http://docs.info.apple.com/article.html?artnum=301722), as well as a [delta updater](http://www.apple.com/support/downloads/macosxupdate1042.html) and a [combo updater](http://www.apple.com/support/downloads/macosxupdate1042combo.html). The changes as described by Apple, are as follows.
 
-The update mentions improved Safari scroll speed, so I expected that it was a recent WebKit build (with Acid2 test compatibility). Unfortunately, it seems that this hasn&#8217;t gone mainstream yet, so reliance on NightShift, SafariOnAcid, or your own builds will have to continue. <!--more-->
+The update mentions improved Safari scroll speed, so I expected that it was a recent WebKit build (with Acid2 test compatibility). Unfortunately, it seems that this hasn't gone mainstream yet, so reliance on NightShift, SafariOnAcid, or your own builds will have to continue. <!--more-->
 
 ### AirPort
 
@@ -30,10 +30,10 @@ The update mentions improved Safari scroll speed, so I expected that it was a re
 
 ### Mail
 
-  * In Mail, if you retrieve and sort IMAP mail using multiple email clients, the counts of unread IMAP messages in mailboxes other than what&#8217;s in your Inbox are more accurate with this update.
+  * In Mail, if you retrieve and sort IMAP mail using multiple email clients, the counts of unread IMAP messages in mailboxes other than what's in your Inbox are more accurate with this update.
   * Addresses an issue in which IMAP messages deleted in Mail could unexpectedly &#8220;reappear&#8221; after a few seconds.
-  * In some situations, a Mail message&#8217;s attached graphic displayed as a small blue box with a question mark inside the message window, even though the attached file was just fine; this update addresses the issue.
-  * Mail no longer tries to print an HTML message&#8217;s remote images if the &#8220;Display remote images in HTML messages&#8221; option is deselected&mdash;the message is printed without the graphics instead&mdash;after this update is installed.
+  * In some situations, a Mail message's attached graphic displayed as a small blue box with a question mark inside the message window, even though the attached file was just fine; this update addresses the issue.
+  * Mail no longer tries to print an HTML message's remote images if the &#8220;Display remote images in HTML messages&#8221; option is deselected&mdash;the message is printed without the graphics instead&mdash;after this update is installed.
   * This update addresses an issue for Mail in which signatures with graphics were not appearing as expected.
 
 ### iChat
@@ -48,7 +48,7 @@ The update mentions improved Safari scroll speed, so I expected that it was a re
 
   * Addresses an issue in which the Finder could unexpectedly quit if Show Package Contents was chosen several times from the shortcut menu for the same package.
   * The Finder slideshow feature should now always work as expected.
-  * If ACLs were enabled on an SMB volume, a Get Info window in the Finder wouldn&#8217;t show the Details section when getting info on files stored on the volume&mdash;this update addresses the issue.
+  * If ACLs were enabled on an SMB volume, a Get Info window in the Finder wouldn't show the Details section when getting info on files stored on the volume&mdash;this update addresses the issue.
   * Addresses an issue in which a supported burning device could unexpectedly be seen as &#8220;unsupported&#8221; by the Finder.
   * The duration of MP3 files is accurately reported in Get Info windows in the Finder with this update.
 
@@ -91,10 +91,10 @@ The update mentions improved Safari scroll speed, so I expected that it was a re
   * Improves compatibility when using an HP Deskjet 5850 printer wirelessly.
   * Improves compatibility for HP LaserJet 1320 printers.
   * This update ensures that periodic background maintenance tasks as scheduled in launchd.conf.
-  * Addresses an issue in which custom installations from a Mac OS X 10.4 Tiger Install disc that don&#8217;t require starting up from the disc could cause Installer to stop responding (&#8220;hang&#8221;) for a couple of minutes if the destination volume was write-protected (eventually, a &#8220;There is not enough space for this item&#8221; message would appear).
+  * Addresses an issue in which custom installations from a Mac OS X 10.4 Tiger Install disc that don't require starting up from the disc could cause Installer to stop responding (&#8220;hang&#8221;) for a couple of minutes if the destination volume was write-protected (eventually, a &#8220;There is not enough space for this item&#8221; message would appear).
   * External disks no longer unmount unexpectedly when switching users, if Fast User Switching is enabled.
   * Addresses an issue in which after performing a NetInstall or restoring Mac OS X from a disk image, you may see certain files and folders at the root level of the Mac OS X volume that are not supposed to be visible, such as etc, tmp, and var. More&#8230;.
-  * With this update, the ttys file can be edited in Tiger; for example, if you&#8217;re creating a login hook.
+  * With this update, the ttys file can be edited in Tiger; for example, if you're creating a login hook.
   * Addresses an issue in which the computer might wake from sleep with a black screen if it went to sleep while prompting you for a keychain password.
   * Allows users to log in with Kerberos authentication when using an edu.mit.Kerberos file.
   * These Automator actions are updated in this update: Add Files to Playlist, Add Songs to Playlist, Import Photos into iPhoto, New Mail Message, Run Shell Script.

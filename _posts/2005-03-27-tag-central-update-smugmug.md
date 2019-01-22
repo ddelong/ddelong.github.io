@@ -14,6 +14,6 @@ categories:
   - Site News
   - Tag Central
 ---
-I got an email from Don MacAskill, CEO and Chief Geek (his words, not mine ;)) over at [Smugmug](http://www.smugmug.com). He informed that they are working on feeds for their content, which is absolutely terrific. I&#8217;ll be able to add more pictures and eliminate my little lack of inline-block support problem.
+I got an email from Don MacAskill, CEO and Chief Geek (his words, not mine ;)) over at [Smugmug](http://www.smugmug.com). He informed that they are working on feeds for their content, which is absolutely terrific. I'll be able to add more pictures and eliminate my little lack of inline-block support problem.
 
 As a little side-note, Don was also very friendly in his email, so anyone passionate about sharing their photos should check out their service.

@@ -13,4 +13,4 @@ shorturl:
 categories:
   - Sports
 ---
-I&#8217;m sure no one will believe this, but I predicted David Ortiz&#8217;s solo home run shot on Friday. I&#8217;m very proud of it. Of course, I also predicted that Manny would immediately follow him with another, but that&#8217;s not important.
+I'm sure no one will believe this, but I predicted David Ortiz's solo home run shot on Friday. I'm very proud of it. Of course, I also predicted that Manny would immediately follow him with another, but that's not important.

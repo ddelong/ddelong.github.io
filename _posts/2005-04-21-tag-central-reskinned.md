@@ -15,4 +15,4 @@ categories:
 ---
 Peter Parkes [reskinned Tag Central](http://hiddenchemistry.com/2005/04/21/folksonomies-and-tag-sensual-skinning-tag-central-using-pithhelmet-and-safari/) using PithHelmet and a custom CSS file. I think it looks simply **Sensual** as he put it.
 
-I like it so much in fact that I&#8217;m going to ask if it would be possible to make it the default and perhaps (if he&#8217;s interested) come up with some more skins (which was my plan for my blog here, but I never got around to it). I think some great things are ahead!
+I like it so much in fact that I'm going to ask if it would be possible to make it the default and perhaps (if he's interested) come up with some more skins (which was my plan for my blog here, but I never got around to it). I think some great things are ahead!

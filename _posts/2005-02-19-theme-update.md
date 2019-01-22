@@ -13,6 +13,6 @@ shorturl:
 categories:
   - Site News
 ---
-I&#8217;ve almost got the site&#8217;s theme to the point where I&#8217;m ready to start distributing it. There are still a few rough spots I&#8217;m sure, so please let me know any weird things going on.
+I've almost got the site's theme to the point where I'm ready to start distributing it. There are still a few rough spots I'm sure, so please let me know any weird things going on.
 
-Once I&#8217;m totally satisfied, I&#8217;ll be making the theme available through one of the site&#8217;s about pages.
+Once I'm totally satisfied, I'll be making the theme available through one of the site's about pages.

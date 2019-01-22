@@ -11,9 +11,9 @@ shorturl:
 categories:
   - Apple
 ---
-I woke up this morning and was alerted to the availability of the much discussed 4.9. Really, it&#8217;s the most feature-rich update to iTunes I can remember since version 4 debuted with the iTunes Music Store capability. Every release since has been pretty lackluster.
+I woke up this morning and was alerted to the availability of the much discussed 4.9. Really, it's the most feature-rich update to iTunes I can remember since version 4 debuted with the iTunes Music Store capability. Every release since has been pretty lackluster.
 
-iTunes 4.8 added the capability to play music videos, but really, there haven&#8217;t been any really compelling new features added, in my opinion. I&#8217;ll be taking screenshots later as well as reviewing how I&#8217;ll be using it. Really, this should have been iTunes 5.0, but maybe Apple has some other **really** compelling feature(s) to add beyong this, but I doubt it. Here&#8217;s a breakdown of what iTunes has added starting with iTunes 4.0. <!--more-->
+iTunes 4.8 added the capability to play music videos, but really, there haven't been any really compelling new features added, in my opinion. I'll be taking screenshots later as well as reviewing how I'll be using it. Really, this should have been iTunes 5.0, but maybe Apple has some other **really** compelling feature(s) to add beyong this, but I doubt it. Here's a breakdown of what iTunes has added starting with iTunes 4.0. <!--more-->
 
 ### 4.0
 
@@ -47,9 +47,9 @@ iTunes 4.2 allows you to sign in and buy music from the iTunes Music Store using
 ### 4.5
 
   * Share Your iMix. Post and email songs in your playlists for everyone to see. Rate iMixes from other music lovers to drive them up or down the charts, and discover new music at the same time.
-  * Party Shuffle. Be your own DJ with a playlist that&#8217;s always full of songs. Add, delete and rearrange them on the fly to create the best mix for the moment.
+  * Party Shuffle. Be your own DJ with a playlist that's always full of songs. Add, delete and rearrange them on the fly to create the best mix for the moment.
   * Print CD Inserts. Create stunning CD jewel case inserts for your album or mix disc using designer templates for both color and black & white printers.
-  * Discover Music. Find out what&#8217;s playing on more than 1,000 radio stations around the United States. Get music and audiobooks related to a movie. See a music video, get the track. Download a free song.
+  * Discover Music. Find out what's playing on more than 1,000 radio stations around the United States. Get music and audiobooks related to a movie. See a music video, get the track. Download a free song.
   * Previews in Playlists and Quick Links. Save store previews to purchase later. Find more music from the artists you love via Quick Links in your library.
   * Automatically convert WMA to AAC. Convert the music you saved in Windows Media Player (unprotected WMA files) to AAC format.
   * Apple Lossless. Use the new lossless encoder to import music from CDs and achieve sound quality indistinguishable from the original, at about half the original file size. Plays in iTunes and on iPod.

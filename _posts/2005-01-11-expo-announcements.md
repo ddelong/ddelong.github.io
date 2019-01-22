@@ -19,6 +19,6 @@ New from the expo:
   * [The Mac mini](http://www.apple.com/macmini/)
   * [The iPod shuffle](http://www.apple.com/ipodshuffle/)
   * [iWork](http://www.apple.com/iwork/)
-  * [iLife &#8217;05](http://www.apple.com/ilife/)
+  * [iLife '05](http://www.apple.com/ilife/)
 
-The other announcements aren&#8217;t terribly exciting and the lack of a Tiger release date was disappointing. More tonight.
+The other announcements aren't terribly exciting and the lack of a Tiger release date was disappointing. More tonight.

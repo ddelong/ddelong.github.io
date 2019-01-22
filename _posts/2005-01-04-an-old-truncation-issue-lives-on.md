@@ -20,4 +20,4 @@ A poster in the Macworld forums recently posted that he mistyped his password an
   * areallylippykid
   * areallyl1234
 
-Your once long, strong password is weakened without your knowledge. Thankfully, [car1son](http://homepage.mac.com/car1son/) points out that Keychain uses the full password, so it won&#8217;t be unlocked automatically and that information is kept relatively safe. Panther fixed all this, but Apple never made a patch for Jaguar (which likely would require substantial changes). One can still make a pretty tough password with only 8 characters, so Jaguar users should do so if not already aware.
+Your once long, strong password is weakened without your knowledge. Thankfully, [car1son](http://homepage.mac.com/car1son/) points out that Keychain uses the full password, so it won't be unlocked automatically and that information is kept relatively safe. Panther fixed all this, but Apple never made a patch for Jaguar (which likely would require substantial changes). One can still make a pretty tough password with only 8 characters, so Jaguar users should do so if not already aware.

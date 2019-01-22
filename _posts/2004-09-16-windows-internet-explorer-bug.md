@@ -15,4 +15,4 @@ Katie revealed a bug in Windows Internet Explorer that WordPress exposes. The co
 
 The solution is either to wait for Microsoft to fix it (\*snicker\* \*snicker\*) or get pretty much **any** other browser. Safari and Firefox both render it correctly. 
 
-The funny part is that even Internet Explorer for Mac handles it correctly. It&#8217;s pretty amazing how Microsoft&#8217;s Mac Business Unit got so many things right when writing that browser that didn&#8217;t get passed along to the Windows version.
+The funny part is that even Internet Explorer for Mac handles it correctly. It's pretty amazing how Microsoft's Mac Business Unit got so many things right when writing that browser that didn't get passed along to the Windows version.

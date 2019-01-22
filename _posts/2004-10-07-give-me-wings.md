@@ -13,8 +13,8 @@ shorturl:
 categories:
   - Personal
 ---
-As I have only been to U-Mass once this school year, I haven&#8217;t had a good chance to get all the fabulous local delicacies. Yesterday, Sheila, my coworker, had wings.
+As I have only been to U-Mass once this school year, I haven't had a good chance to get all the fabulous local delicacies. Yesterday, Sheila, my coworker, had wings.
 
-That was enough to spark an intense craving for a big tray of honey barbeque wings from Wings in Amherst. I&#8217;m going out there Friday to get a huge tray of wings dripping in sauce that I can gorge myself on.
+That was enough to spark an intense craving for a big tray of honey barbeque wings from Wings in Amherst. I'm going out there Friday to get a huge tray of wings dripping in sauce that I can gorge myself on.
 
 _Mmmmmmm._

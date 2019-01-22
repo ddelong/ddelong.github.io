@@ -15,4 +15,4 @@ categories:
 ---
 [Alexa](http://www.alexa.com), part of [Amazon](http://www.amazon.com) has linked [Tag Central](http://tagcentral.net) very prominently in a [recent blog entry](http://awis.blogspot.com/2005/04/goodbye-old-media-hello-new-media.html). That drew quite a few visits.
 
-I vow that this weekend I will at least get the supporting pages up so the site isn&#8217;t quite as mysterious as it is now.
+I vow that this weekend I will at least get the supporting pages up so the site isn't quite as mysterious as it is now.

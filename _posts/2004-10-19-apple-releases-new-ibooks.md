@@ -13,7 +13,7 @@ dsq_thread_id:
 categories:
   - Macs
 ---
-I know you&#8217;re all very excited boys and girls. Apple has bumped their iBook computers.
+I know you're all very excited boys and girls. Apple has bumped their iBook computers.
 
 We now have: \* A 1.2GHz 12&#8243; iBook with 30GB hard drive and a combo drive \* A 1.33GHz 14&#8243; iBook with 60GB hard drive and your choice of combo or super drive
 
@@ -23,6 +23,6 @@ More details are available [at Apple](http://www.apple.com/ibook/specs.html).
 
 Pricing is $999 for the 12&#8243;, and $1,299 and $1,499 for the 14&#8243; version with combo drive and superdrive respectively.
 
-The 12&#8243; isn&#8217;t a bad deal, but for the prices of the 14&#8243; iBooks, I&#8217;d move on up to the 12&#8243; Powerbook. The screen may be bigger on the 14&#8243;, but again, the actual pixel space is the same, so things will only be bigger on the 14&#8243; screen. It&#8217;s good to see Airport Extreme on all laptops that Apple now offers (though this should have happened earlier). The small amount of RAM is disappointing again.
+The 12&#8243; isn't a bad deal, but for the prices of the 14&#8243; iBooks, I'd move on up to the 12&#8243; Powerbook. The screen may be bigger on the 14&#8243;, but again, the actual pixel space is the same, so things will only be bigger on the 14&#8243; screen. It's good to see Airport Extreme on all laptops that Apple now offers (though this should have happened earlier). The small amount of RAM is disappointing again.
 
-I&#8217;m going to predict that one of the first things that nay-sayers will harp on is the lack of Firewire 800. Get over it, this is a consumer machine and it&#8217;s entirely inappropriate to have.
+I'm going to predict that one of the first things that nay-sayers will harp on is the lack of Firewire 800. Get over it, this is a consumer machine and it's entirely inappropriate to have.

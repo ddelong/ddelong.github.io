@@ -13,8 +13,8 @@ shorturl:
 categories:
   - Wisdom
 ---
-Spam is getting less annoying for me, mostly because of its comedic value. I&#8217;m not sure if it&#8217;s intentional or not. Here&#8217;s the latest supposedly from PayPal (har har har).
+Spam is getting less annoying for me, mostly because of its comedic value. I'm not sure if it's intentional or not. Here's the latest supposedly from PayPal (har har har).
 
-> You&#8217;re Billing Information!
+> You're Billing Information!
 
-No, I&#8217;m not! The last time I pretended to be billing information, I got my hand stuck in someone&#8217;s mail slot.
+No, I'm not! The last time I pretended to be billing information, I got my hand stuck in someone's mail slot.

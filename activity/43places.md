@@ -12,4 +12,4 @@ shorturl:
 ---
 ## 43 Places
 
-I don&#8217;t travel often, but I track where I&#8217;ve been and where I want to go using [43 Places](http://www.43places.com). You can browse [my page there](http://www.43places.com/person/d00d) or look below.
+I don't travel often, but I track where I've been and where I want to go using [43 Places](http://www.43places.com). You can browse [my page there](http://www.43places.com/person/d00d) or look below.

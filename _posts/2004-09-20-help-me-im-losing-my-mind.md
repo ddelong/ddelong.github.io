@@ -1,6 +1,6 @@
 ---
 id: 138
-title: 'Help Me, I&#8217;m Losing My Mind'
+title: 'Help Me, I'm Losing My Mind'
 date: 2004-09-20T09:56:21+00:00
 author: Derik
 layout: single
@@ -13,8 +13,8 @@ dsq_thread_id:
 categories:
   - Site News
 ---
-Jon, if you&#8217;re still reading my site, I seem to still need your help. Please comment or email me directly at ddelong !at! gmail dot com.
+Jon, if you're still reading my site, I seem to still need your help. Please comment or email me directly at ddelong !at! gmail dot com.
 
-I will take any and all help. One very small section of WordPress&#8217;s PHP code seems to be messing up and I can&#8217;t diagnose why.
+I will take any and all help. One very small section of WordPress's PHP code seems to be messing up and I can't diagnose why.
 
 Thank you.

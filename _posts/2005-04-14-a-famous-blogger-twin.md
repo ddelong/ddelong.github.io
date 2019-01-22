@@ -28,13 +28,13 @@ Shamelessly copied from [Heather](http://pixelscribbles.com/journal/2005/04/my-f
         <img src="http://www.quizdiva.net/bt/adam-curry.jpg" alt="Adam Curry" />
       </center>
       
-      <font color="#000000"> A little bit rock and roll, a whole lot of geek! There&#8217;s no other blogger quite like you </font>
+      <font color="#000000"> A little bit rock and roll, a whole lot of geek! There's no other blogger quite like you </font>
     </td>
   </tr>
 </table>
 
 <div align="center">
-  <a href="http://www.blogthings.com/famousbloggerquiz/">Who&#8217;s Your Famous Blogger Twin?</a>
+  <a href="http://www.blogthings.com/famousbloggerquiz/">Who's Your Famous Blogger Twin?</a>
 </div>
 
-Oddly enough, I just recently discovered Adam Curry&#8217;s podcast and I&#8217;ve become very addicted (which is hard to admit because he did work for MTV). Now it&#8217;s Katie and Dana&#8217;s turn to do this.
+Oddly enough, I just recently discovered Adam Curry's podcast and I've become very addicted (which is hard to admit because he did work for MTV). Now it's Katie and Dana's turn to do this.

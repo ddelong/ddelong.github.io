@@ -13,6 +13,6 @@ categories:
 ---
 [Mozilla](http://www.mozilla.org) has [updated Firefox to 1.0.1](http://www.mozillazine.org/talkback.html?article=6129). This is primarily a bug and security fix release (recommended for all users).
 
-If you&#8217;re familiar with [bittorrent](http://bitconjurer.org/BitTorrent/), please use the [Mozilla provided torrents](http://bittorrent.mozilla.org). If not, visit their [main download page](http://www.mozilla.org/products/firefox/all.html).
+If you're familiar with [bittorrent](http://bitconjurer.org/BitTorrent/), please use the [Mozilla provided torrents](http://bittorrent.mozilla.org). If not, visit their [main download page](http://www.mozilla.org/products/firefox/all.html).
 
 There is an [unofficial changelog](http://www.squarefree.com/burningedge/releases/1.0.1.html) for the update.

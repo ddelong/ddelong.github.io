@@ -11,6 +11,6 @@ shorturl:
 categories:
   - Site News
 ---
-Last night, I put in a completely isolated new installation of WordPress in. I made a new database, didn&#8217;t change anything but the configuration files necessary to point at the database. WordPress still shit the bed when trying to post new entries. All I can say is, at least they still go through.
+Last night, I put in a completely isolated new installation of WordPress in. I made a new database, didn't change anything but the configuration files necessary to point at the database. WordPress still shit the bed when trying to post new entries. All I can say is, at least they still go through.
 
-I&#8217;m waiting help from my host and hopefully I&#8217;ll get things back in working order soon (especially since I&#8217;d like to put my weather plug in back).
+I'm waiting help from my host and hopefully I'll get things back in working order soon (especially since I'd like to put my weather plug in back).

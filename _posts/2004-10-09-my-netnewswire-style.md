@@ -17,11 +17,11 @@ The new NetNewsWire 2.0 (currently in beta) allows for definition of your own st
 
 Install the expanded archive at ~/Library/StyleSheets/. Enjoy [my theme](ftp://anonymous%40godlikenerd%2Ecom:foo%40foo%2Ecom@ftp.godlikenerd.com/deriknnwstyle.gz).
 
-Unfortunately, in order to connect and download from my FTP server, you need to attach &#8220;@godlikenerd.com&#8221; to &#8220;anonymous&#8221;. The password is your email address (or any email address). My webhost seems to have missed the entire point of anonymous FTP (every browser assumes just &#8220;anonymous&#8221; as the username). I&#8217;ll deal.
+Unfortunately, in order to connect and download from my FTP server, you need to attach &#8220;@godlikenerd.com&#8221; to &#8220;anonymous&#8221;. The password is your email address (or any email address). My webhost seems to have missed the entire point of anonymous FTP (every browser assumes just &#8220;anonymous&#8221; as the username). I'll deal.
 
-**Addendum 1:** Apparently [Brent Simmons](http://ranchero.com/?comments=1&postid=929) found this post. Color me flattered. Someone requested that I post a screenshot and considering that I now have high visibility on this item, I&#8217;m definitely going to have to. I should also warn that I haven&#8217;t cleaned this up for the combined view. I&#8217;m also going revise it for that today.
+**Addendum 1:** Apparently [Brent Simmons](http://ranchero.com/?comments=1&postid=929) found this post. Color me flattered. Someone requested that I post a screenshot and considering that I now have high visibility on this item, I'm definitely going to have to. I should also warn that I haven't cleaned this up for the combined view. I'm also going revise it for that today.
 
-**Addendum 2:** I&#8217;ve updated my theme to 1.1. Below is a screenshot. I&#8217;ve moved the picture to the extended entry to keep homepage load time light.
+**Addendum 2:** I've updated my theme to 1.1. Below is a screenshot. I've moved the picture to the extended entry to keep homepage load time light.
 
 **Addendum 3** _10/13/2004_: Changed the name to Autumn for [inclusion with NetNewsWire](http://godlikenerd.com/weblog/2004/10/13/my-theme-will-be-bundled-with-netnewswire/).
 

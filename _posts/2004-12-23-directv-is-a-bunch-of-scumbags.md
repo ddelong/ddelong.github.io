@@ -13,10 +13,10 @@ shorturl:
 categories:
   - Site News
 ---
-I&#8217;ve been fighting comment spam for a long time now. The majority of those sites are selling prescription drugs to fight erectile disfunction and poker sites. I long for the days when spam was ads for pornography. At least I could get some use out of that. But I digress.
+I've been fighting comment spam for a long time now. The majority of those sites are selling prescription drugs to fight erectile disfunction and poker sites. I long for the days when spam was ads for pornography. At least I could get some use out of that. But I digress.
 
-These spamming sites have been mostly no name, fly-by-night outfits that don&#8217;t have a reputation to maintain. They don&#8217;t care that the public at large hates them. They make some quick profit and then die as a company.
+These spamming sites have been mostly no name, fly-by-night outfits that don't have a reputation to maintain. They don't care that the public at large hates them. They make some quick profit and then die as a company.
 
-This is the reason that you never see these companies being advertised in any other form. That is except DIRECTV. They aren&#8217;t doing it directly, but an installation partner of theirs has been busy trying to spam my blog for the last couple days. I refuse to post the URL, but for those of you that are curious the middle part of the domain (between www and com) is three words separated by dashes: direct tv online.
+This is the reason that you never see these companies being advertised in any other form. That is except DIRECTV. They aren't doing it directly, but an installation partner of theirs has been busy trying to spam my blog for the last couple days. I refuse to post the URL, but for those of you that are curious the middle part of the domain (between www and com) is three words separated by dashes: direct tv online.
 
-Due to their lack of responsibility in choosing business partners, I will never be ordering anything through them. I&#8217;m going to recommend that no one I know do so either. I&#8217;ve never been spammed by a cable company and for that, they get my continued business. DIRECTV are a bunch of scumbags for associating with these scammers. I&#8217;ve already let them know by sending an email. If you&#8217;re feeling saucy, you can do the same, or just passively let them know by never subscribing to their service.
+Due to their lack of responsibility in choosing business partners, I will never be ordering anything through them. I'm going to recommend that no one I know do so either. I've never been spammed by a cable company and for that, they get my continued business. DIRECTV are a bunch of scumbags for associating with these scammers. I've already let them know by sending an email. If you're feeling saucy, you can do the same, or just passively let them know by never subscribing to their service.

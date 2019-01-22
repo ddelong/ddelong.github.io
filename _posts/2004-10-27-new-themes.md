@@ -13,4 +13,4 @@ dsq_thread_id:
 categories:
   - Site News
 ---
-Check out the new styles. I&#8217;ve made &#8220;blue&#8221; the default, but I&#8217;m partial to orange myself.
+Check out the new styles. I've made &#8220;blue&#8221; the default, but I'm partial to orange myself.

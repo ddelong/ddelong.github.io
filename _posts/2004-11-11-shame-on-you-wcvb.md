@@ -13,9 +13,9 @@ shorturl:
 categories:
   - Personal
 ---
-WCVB, here in Massachusetts, has [decided not to show](http://www.thebostonchannel.com/news/3910568/detail.html) [Saving Private Ryan](http://www.imdb.com/title/tt0120815/), the [award winning film](http://www.imdb.com/title/tt0120815/awards). I&#8217;d list the awards, but honestly, they would make this post huge. _That_ is how many awards we are talking about.
+WCVB, here in Massachusetts, has [decided not to show](http://www.thebostonchannel.com/news/3910568/detail.html) [Saving Private Ryan](http://www.imdb.com/title/tt0120815/), the [award winning film](http://www.imdb.com/title/tt0120815/awards). I'd list the awards, but honestly, they would make this post huge. _That_ is how many awards we are talking about.
 
-What is there reasoning and excuse? There&#8217;s too much violence and profanity in the film. Too many kids might watch it in the 8PM time slot originally allotted. What kind of society do we live in when children watching an award winning film with genuine social value is a **problem**? It&#8217;s absurd!
+What is there reasoning and excuse? There's too much violence and profanity in the film. Too many kids might watch it in the 8PM time slot originally allotted. What kind of society do we live in when children watching an award winning film with genuine social value is a **problem**? It's absurd!
 
 Realizing that this excuse is weak, they made some more excuses, this time to blame the FCC for more stringent enforcement of their rules (following the now infamous Janet Jackson nipple incident). They claim that they may lose their license for showing this **award winning** film.
 

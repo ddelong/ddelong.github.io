@@ -13,4 +13,4 @@ shorturl:
 categories:
   - Personal
 ---
-I&#8217;ll be visiting Ithaca this weekend so I may not post until Sunday (unless I have something super important to post). I&#8217;ll see you all then.
+I'll be visiting Ithaca this weekend so I may not post until Sunday (unless I have something super important to post). I'll see you all then.

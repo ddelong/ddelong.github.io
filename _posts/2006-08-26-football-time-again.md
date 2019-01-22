@@ -13,11 +13,11 @@ shorturl:
 categories:
   - Sports
 ---
-All right guys, Fall is fast approaching and you know what that means. It&#8217;s time for football. Last year we all had a lot of fun (though I barely summarized each week&#8217;s results and that&#8217;s likely to be worse this year).
+All right guys, Fall is fast approaching and you know what that means. It's time for football. Last year we all had a lot of fun (though I barely summarized each week's results and that's likely to be worse this year).
 
 Without further ado, here is the info to join up.
 
-Go to [Yahoo&#8217;s Football Pick&#8217;em page](http://football.fantasysports.yahoo.com/pickem/). You&#8217;ll need a Yahoo! account.
+Go to [Yahoo's Football Pick'em page](http://football.fantasysports.yahoo.com/pickem/). You'll need a Yahoo! account.
 
 Once there, choose to join a private group.
 

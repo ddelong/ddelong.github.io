@@ -13,6 +13,6 @@ dsq_thread_id:
 categories:
   - Site News
 ---
-After continued use of NetNewsWire, one thing has become painfully clear to me. I need a logo for my site. This isn&#8217;t just for the front page, but so I have a favicon because until I do, my site is going to look second rate.
+After continued use of NetNewsWire, one thing has become painfully clear to me. I need a logo for my site. This isn't just for the front page, but so I have a favicon because until I do, my site is going to look second rate.
 
-I have zero artistic talent, nor do I have any idea what would look good for my site. I need help. I&#8217;m begging. Any artists or graphic designers interested? Leave a comment or send me an email at webmaster [at] godlikenerd [dot] com.
+I have zero artistic talent, nor do I have any idea what would look good for my site. I need help. I'm begging. Any artists or graphic designers interested? Leave a comment or send me an email at webmaster [at] godlikenerd [dot] com.

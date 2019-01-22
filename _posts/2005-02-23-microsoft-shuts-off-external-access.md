@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Technology
 ---
-Truth be known, I do have a [HoTMaiL](http://www.hotmail.com) account just for registration to sites that almost certainly will spam me. There have been rumors that access to Hotmail accounts through things like Outlook Express, Entourage, and third party plugins, such as [the one for Mail.app](http://www.automagic-software.com/products.php) would be shut off. You&#8217;d be forced into using the web interface (which still sucks).
+Truth be known, I do have a [HoTMaiL](http://www.hotmail.com) account just for registration to sites that almost certainly will spam me. There have been rumors that access to Hotmail accounts through things like Outlook Express, Entourage, and third party plugins, such as [the one for Mail.app](http://www.automagic-software.com/products.php) would be shut off. You'd be forced into using the web interface (which still sucks).
 
 It became official today:
 

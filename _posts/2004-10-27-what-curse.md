@@ -13,6 +13,6 @@ shorturl:
 categories:
   - Sports
 ---
-That&#8217;s right. It **was** the year!
+That's right. It **was** the year!
 
 All you naysayers can put that in your hash pipe and smoke it!

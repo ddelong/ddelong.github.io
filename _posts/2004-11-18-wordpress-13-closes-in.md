@@ -11,4 +11,4 @@ shorturl:
 categories:
   - Technology
 ---
-The [WordPress Development Blog](http://wordpress.org/development/) has [been updated with information about WordPress 1.3](http://wordpress.org/development/2004/11/whats-going-on/). It looks like they&#8217;ve been making some great strides and good improvements, but consipicuously absent from [their goal list](http://codex.wordpress.org/Version_1.3) is per-post formatting support. This makes me very sad.
+The [WordPress Development Blog](http://wordpress.org/development/) has [been updated with information about WordPress 1.3](http://wordpress.org/development/2004/11/whats-going-on/). It looks like they've been making some great strides and good improvements, but consipicuously absent from [their goal list](http://codex.wordpress.org/Version_1.3) is per-post formatting support. This makes me very sad.

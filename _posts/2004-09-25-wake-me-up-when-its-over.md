@@ -1,6 +1,6 @@
 ---
 id: 150
-title: 'Wake Me Up When It&#8217;s Over'
+title: 'Wake Me Up When It's Over'
 date: 2004-09-25T14:25:00+00:00
 author: Derik
 layout: single
@@ -13,4 +13,4 @@ shorturl:
 categories:
   - Politics
 ---
-After all these months of political rhetoric (a quarter of each President&#8217;s term being taken up with this is a bit much), I&#8217;m ready for it to be over. There&#8217;s still a month left. Doesn&#8217;t anyone else feel the same way?
+After all these months of political rhetoric (a quarter of each President's term being taken up with this is a bit much), I'm ready for it to be over. There's still a month left. Doesn't anyone else feel the same way?

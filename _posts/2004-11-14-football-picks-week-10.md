@@ -11,7 +11,7 @@ shorturl:
 categories:
   - Sports
 ---
-I&#8217;m getting progressively worse, but here we go:
+I'm getting progressively worse, but here we go:
 
   * Tampa Bay vs. **Atlanta**
   * **Pittsburgh** vs. Cleveland

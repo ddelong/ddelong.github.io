@@ -13,4 +13,4 @@ shorturl:
 categories:
   - Site News
 ---
-I&#8217;d like to thank whoever bought Meet the Fockers, Pirates of Silicon Valley, and The Bourne Identity through my [Amazon links](/shop/). I really appreciate it. Hopefully this will be the start of a trend. Living in your own place is a little expensive.
+I'd like to thank whoever bought Meet the Fockers, Pirates of Silicon Valley, and The Bourne Identity through my [Amazon links](/shop/). I really appreciate it. Hopefully this will be the start of a trend. Living in your own place is a little expensive.

@@ -13,47 +13,47 @@ shorturl:
 categories:
   - Humor
 ---
-Call me a terrible person, a monster if you will. I just couldn&#8217;t stop once it started.
+Call me a terrible person, a monster if you will. I just couldn't stop once it started.
 
 13:40:37 amos282002: Hello Derik!
   
 13:40:45 amos282002: how r u doing?
   
-13:40:59 amos282002: I&#8217;m Amos Michel 
+13:40:59 amos282002: I'm Amos Michel 
 
 <!--more--> 13:41:12 dirkdelong: uh ohk
 
 
   
-13:41:15 amos282002: I&#8217;m from Jacmel City
+13:41:15 amos282002: I'm from Jacmel City
   
 13:41:26 dirkdelong: oh
   
-13:42:23 amos282002: and I met your profil online and I see that it&#8217;s very important to keep in a good touch with you
+13:42:23 amos282002: and I met your profil online and I see that it's very important to keep in a good touch with you
   
 13:43:10 dirkdelong: I see
   
 13:43:37 amos282002: have you ever visited Haiti country?
   
-13:43:59 amos282002: that &#8216;s where i&#8217;m from
+13:43:59 amos282002: that &#8216;s where i'm from
   
-13:44:16 dirkdelong: no, I&#8217;ve never been to the Carribean
+13:44:16 dirkdelong: no, I've never been to the Carribean
   
-13:44:23 dirkdelong: though I hear it&#8217;s very nice
+13:44:23 dirkdelong: though I hear it's very nice
   
-13:44:42 amos282002: yeah it is and I&#8217;m Haitian
+13:44:42 amos282002: yeah it is and I'm Haitian
   
 13:44:59 amos282002: tell me what do you do?
   
-13:45:27 dirkdelong: I&#8217;m a software engineer
+13:45:27 dirkdelong: I'm a software engineer
   
 13:45:29 dirkdelong: you?
   
-13:46:40 amos282002: I&#8217;m done with school this year not yet having a profesion
+13:46:40 amos282002: I'm done with school this year not yet having a profesion
   
 13:47:10 amos282002: but lack of money here I can not go to a college
   
-13:47:50 dirkdelong: yeah, it&#8217;s rough
+13:47:50 dirkdelong: yeah, it's rough
   
 13:48:11 amos282002: yeah it is
   
@@ -75,11 +75,11 @@ Call me a terrible person, a monster if you will. I just couldn&#8217;t stop onc
   
 13:54:44 amos282002: yeah,
   
-13:56:10 amos282002: and whatever you&#8217;ll give me will be a big start for me so I could start to go to study it
+13:56:10 amos282002: and whatever you'll give me will be a big start for me so I could start to go to study it
   
-13:56:26 dirkdelong: I wish I could, but I don&#8217;t have any to spare unfortunately]
+13:56:26 dirkdelong: I wish I could, but I don't have any to spare unfortunately]
   
-14:01:35 amos282002: I understand what you mean, I live with my parents here they are not in work and they are really very sick, I have five brothers and five sisters and I&#8217;m the Oldest in my family, then what I wondered, I would dearly love to learn something so that will be the bigest step in my life so I could make money to take care of my family
+14:01:35 amos282002: I understand what you mean, I live with my parents here they are not in work and they are really very sick, I have five brothers and five sisters and I'm the Oldest in my family, then what I wondered, I would dearly love to learn something so that will be the bigest step in my life so I could make money to take care of my family
   
 14:03:33 amos282002: certainly here in Haiti there are many misery no work and for you to attend a colege you have to get alot of money
   
@@ -97,7 +97,7 @@ Call me a terrible person, a monster if you will. I just couldn&#8217;t stop onc
   
 14:08:15 amos282002: Ok I go to check it now
   
-14:14:16 amos282002: I don&#8217;t find it
+14:14:16 amos282002: I don't find it
   
 14:14:37 dirkdelong: oh
   
@@ -105,7 +105,7 @@ Call me a terrible person, a monster if you will. I just couldn&#8217;t stop onc
   
 14:14:43 amos282002: may I give you my mailling adress?
   
-14:14:47 dirkdelong: I&#8217;ll send another
+14:14:47 dirkdelong: I'll send another
   
 14:15:49 amos282002: here my mailling adress
   
@@ -139,7 +139,7 @@ Began receiving Amos 1.jpg (14:26:52)
   
 amos282002 canceled the transfer of Amos 1.jpg (14:28:07)
   
-14:28:22 dirkdelong: didn&#8217;t seem to go through
+14:28:22 dirkdelong: didn't seem to go through
   
 14:28:48 dirkdelong: so, when do I get my mail-order bride?
   
@@ -149,23 +149,23 @@ amos282002 canceled the transfer of Amos 1.jpg (14:28:07)
   
 14:32:00 amos282002: may you please send it to me by WESTERN UNION?
   
-14:32:21 dirkdelong: I&#8217;ll send the money when I get my bride
+14:32:21 dirkdelong: I'll send the money when I get my bride
   
 14:33:14 amos282002: oh I see what you mean
   
 14:33:28 amos282002: so tell me when will you get her?
   
-14:34:32 dirkdelong: I don&#8217;t know, when are you sending her to me?
+14:34:32 dirkdelong: I don't know, when are you sending her to me?
   
 14:36:39 amos282002: that would better if you come here in Jacmel because there are alot of beautiful single ladies here there are waiting for a broom
   
-14:37:30 amos282002: you can come and make yourself choice and you&#8217;ll have to get a bride
+14:37:30 amos282002: you can come and make yourself choice and you'll have to get a bride
   
 14:38:55 amos282002: hello
   
 14:40:05 amos282002: tell me when will be the best time for you so you can come
   
-14:40:53 dirkdelong: I don&#8217;t know, I&#8217;ll check my calendar and get back to you
+14:40:53 dirkdelong: I don't know, I'll check my calendar and get back to you
   
 14:40:59 dirkdelong: I have to go now
   

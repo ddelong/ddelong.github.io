@@ -45,7 +45,7 @@ categories:
     
 > Displays the Creative Commons license that you may have applied to your feed (or to individual content items).
 
-I&#8217;ve turned them all on, save the Email Author feature, for obvious reasons. I may turn off the comment counter as I think it&#8217;ll cause NetNewsWire to register a change, and therefore mark it as new again. All this for free! <!-- technorati tags start -->
+I've turned them all on, save the Email Author feature, for obvious reasons. I may turn off the comment counter as I think it'll cause NetNewsWire to register a change, and therefore mark it as new again. All this for free! <!-- technorati tags start -->
 
 <p class="tag-description">
   Tags: <a href="http://tagcentral.net/tag/feedburner" rel="tag">feedburner</a>, <a href="http://tagcentral.net/tag/feedflare" rel="tag">feedflare</a>

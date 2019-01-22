@@ -13,7 +13,7 @@ dsq_thread_id:
 categories:
   - Sports
 ---
-I&#8217;ll admit it. I screwed up a bit with last week&#8217;s picks. 9-5 is not good. This makes me 20-8 overall.
+I'll admit it. I screwed up a bit with last week's picks. 9-5 is not good. This makes me 20-8 overall.
 
 Hopefully this week is better.
 

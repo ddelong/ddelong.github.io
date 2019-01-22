@@ -13,6 +13,6 @@ dsq_thread_id:
 categories:
   - Site News
 ---
-Thanks to Python and Google supplied SOAP API&#8217;s, you can now access the Google cache for any site [here](/cgi-bin/googlecache.py). I&#8217;m only allowed a thousand access per day, so if this gets popular, it may stop working later in the day.
+Thanks to Python and Google supplied SOAP API's, you can now access the Google cache for any site [here](/cgi-bin/googlecache.py). I'm only allowed a thousand access per day, so if this gets popular, it may stop working later in the day.
 
 Enjoy!

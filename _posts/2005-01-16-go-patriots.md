@@ -15,4 +15,4 @@ categories:
 ---
 You can suck on that Vanderjagt!
 
-Who&#8217;s up for a road-trip to his house to rub it in?
+Who's up for a road-trip to his house to rub it in?

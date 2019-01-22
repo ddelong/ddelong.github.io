@@ -13,9 +13,9 @@ dsq_thread_id:
 categories:
   - Sports
 ---
-I&#8217;m not going to comment upon my picks from last week. They were bad.
+I'm not going to comment upon my picks from last week. They were bad.
 
-This week&#8217;s picks:
+This week's picks:
 
   * San Diego vs. **Atlanta**
   * Miami vs. **Buffalo**
@@ -32,4 +32,4 @@ This week&#8217;s picks:
   * **Minnesota** vs. New Orleans
   * Tampa Bay vs. **St. Louis**
 
-I&#8217;ll update my record next week.
+I'll update my record next week.

@@ -13,8 +13,8 @@ shorturl:
 categories:
   - Personal
 ---
-I noticed [Orkut](http://www.orkut.com) was listed in part of Google&#8217;s services once you&#8217;ve logged in with a username. A new Google service? I must try it out!
+I noticed [Orkut](http://www.orkut.com) was listed in part of Google's services once you've logged in with a username. A new Google service? I must try it out!
 
-Unfortunately, it&#8217;s invitation only. If you&#8217;ve got an account, please invite me.
+Unfortunately, it's invitation only. If you've got an account, please invite me.
 
 _Please?_

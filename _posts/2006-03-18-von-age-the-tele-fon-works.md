@@ -19,4 +19,4 @@ Anywho&rsquo;s, Saturday night about 3am I signed up to Vonage after my friend d
 
 [Via [bored. beyond. belief.](http://www.cards2phone.net/)]
 
-This is just more backup that the telcos have something to fear, and it ain&#8217;t Skype.
+This is just more backup that the telcos have something to fear, and it ain't Skype.

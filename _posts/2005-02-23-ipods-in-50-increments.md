@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Apple
 ---
-Apple updated its line of [iPod](http://www.apple.com/ipod/) MP3 players. Specifically, the [iPod mini](http://www.apple.com/ipodmini/) and the [iPod photo](http://www.apple.com/ipodphoto/). The mini now comes in two sizes, and the photo had some pronounced price changing. In fact, it&#8217;s created an interesting pattern. For the most part, the pricing of all the models and sizes are separated by $50.
+Apple updated its line of [iPod](http://www.apple.com/ipod/) MP3 players. Specifically, the [iPod mini](http://www.apple.com/ipodmini/) and the [iPod photo](http://www.apple.com/ipodphoto/). The mini now comes in two sizes, and the photo had some pronounced price changing. In fact, it's created an interesting pattern. For the most part, the pricing of all the models and sizes are separated by $50.
 
   * iPod shuffle 512 MB $99
   * iPod shuffle 1 GB $149
@@ -24,11 +24,11 @@ Apple updated its line of [iPod](http://www.apple.com/ipod/) MP3 players. Specif
   * iPod photo 30 GB $349
   * iPod photo 60 GB $449
 
-What&#8217;s really interesting about this is that while Apple has established a linear pricing structure, the sizes are exponential. Of course, the biggest bang for your buck change is still the difference between the high-end mini and the regular iPod (14 GB for $50). Apple has bent over backwards to woo the various MP3 player customer types.
+What's really interesting about this is that while Apple has established a linear pricing structure, the sizes are exponential. Of course, the biggest bang for your buck change is still the difference between the high-end mini and the regular iPod (14 GB for $50). Apple has bent over backwards to woo the various MP3 player customer types.
 
-The (very) bad thing about this update is the removal of firewire cable as a standard accessory. Let that sink in. Apple is now making USB 2.0 the standard interface for the iPod. While USB 2.0 has higher theoretical speed, it has lower real world speed than firewire, isn&#8217;t available on many existing Macs, and can&#8217;t deliver the same amount of power. One has to trickle charge their iPod unless they use the AC adapter. _Boo._
+The (very) bad thing about this update is the removal of firewire cable as a standard accessory. Let that sink in. Apple is now making USB 2.0 the standard interface for the iPod. While USB 2.0 has higher theoretical speed, it has lower real world speed than firewire, isn't available on many existing Macs, and can't deliver the same amount of power. One has to trickle charge their iPod unless they use the AC adapter. _Boo._
 
-Apple did pick up on customer desire by announcing a new $29 iPod Camera Connector which allows one to download their photos straight from their camera to their iPod photo. That&#8217;s huge. Photographers can take boatloads of pictures without carrying around a big laptop or terribly expensive photo cards. Then they can review them right on the iPod. It&#8217;s sweet functionality for a terrific price.
+Apple did pick up on customer desire by announcing a new $29 iPod Camera Connector which allows one to download their photos straight from their camera to their iPod photo. That's huge. Photographers can take boatloads of pictures without carrying around a big laptop or terribly expensive photo cards. Then they can review them right on the iPod. It's sweet functionality for a terrific price.
 
 **Update 1:** Rosyna of [Unsanity](http://www.unsanity.com) also [noticed the lack of a Firewire cable](http://www.unsanity.org/archives/000388.php) and denounced the move.
 

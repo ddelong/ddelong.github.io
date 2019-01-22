@@ -13,4 +13,4 @@ dsq_thread_id:
 categories:
   - Site News
 ---
-I&#8217;m using my [Bloglines](http://www.bloglines.com) account to host a [supplemental blog](http://www.bloglines.com/blog/derik) which is going to be clippings that aren&#8217;t worthy of the front page.
+I'm using my [Bloglines](http://www.bloglines.com) account to host a [supplemental blog](http://www.bloglines.com/blog/derik) which is going to be clippings that aren't worthy of the front page.

@@ -15,8 +15,8 @@ categories:
 ---
 This is standard update fare. Fire up software update or download the updates from Apple ([1.3.1](http://www.apple.com/support/downloads/safariupdate131.html) and [2.0.1](http://www.apple.com/support/downloads/safariupdate201.html)).
 
-Apple&#8217;s documentation is pretty light on what&#8217;s changed.
+Apple's documentation is pretty light on what's changed.
 
 > Safari version _2.0.1/1.3.1_ for Mac OS X _Tiger/Panther_ improves website compatibility, application stability and support for 3rd party web applications.
 
-It sounds like WebKit might have been updated (perhaps to include Acid test compatibility). It could also be that minor parts of the interface were amended, but I didn&#8217;t find any such changes. If you use Saft, you&#8217;re going to have to update that too.
+It sounds like WebKit might have been updated (perhaps to include Acid test compatibility). It could also be that minor parts of the interface were amended, but I didn't find any such changes. If you use Saft, you're going to have to update that too.

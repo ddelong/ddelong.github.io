@@ -13,4 +13,4 @@ shorturl:
 categories:
   - Personal
 ---
-For some time now, I&#8217;ve been dealing with Boston commuter traffic, relying on TV and radio traffic reports. For the life of me, I couldn&#8217;t find a website that gave up to the minute status information. Well, I found [one](http://www.boston.com/news/traffic/). Sweet.
+For some time now, I've been dealing with Boston commuter traffic, relying on TV and radio traffic reports. For the life of me, I couldn't find a website that gave up to the minute status information. Well, I found [one](http://www.boston.com/news/traffic/). Sweet.

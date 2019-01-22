@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Sports
 ---
-I&#8217;m back after a hiatus last week. I forgot to write down my picks because I was going to [my friend&#8217;s apartment for game one](http://godlikenerd.com/v-web/gallery/AndyWorldSeries). The good news is that I&#8217;m going to remember for this week. Without further ado, they are:
+I'm back after a hiatus last week. I forgot to write down my picks because I was going to [my friend's apartment for game one](http://godlikenerd.com/v-web/gallery/AndyWorldSeries). The good news is that I'm going to remember for this week. Without further ado, they are:
 
   * Arizona vs. **Buffalo**
   * **Detroit** vs. Dallas
@@ -30,6 +30,6 @@ I&#8217;m back after a hiatus last week. I forgot to write down my picks because
   * San Fransisco vs. **Chicago**
   * Miami vs. **NY Jets**
 
-If you&#8217;ll notice, I actually picked the two undefeated teams to win again this week. The odds are against them, but the Eagles and Patriots are my two favorites for the Superbowl at this point. However, if another NFC team starts to pick up the slack, I will pick them over the Eagles simply because the Eagles always suck in the post season.
+If you'll notice, I actually picked the two undefeated teams to win again this week. The odds are against them, but the Eagles and Patriots are my two favorites for the Superbowl at this point. However, if another NFC team starts to pick up the slack, I will pick them over the Eagles simply because the Eagles always suck in the post season.
 
 Due to the fact that this is becoming fairly popular on the web, I think I may make a PHP software package to manage football picks. If you feel like helping out or getting involved, drop me a line. It may be the motivation I need to actually do it.

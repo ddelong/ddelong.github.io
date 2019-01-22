@@ -11,6 +11,6 @@ shorturl:
 categories:
   - Site News
 ---
-After struggling with [Bloglines](http://www.bloglines.com) rather limited blog interface (which did make linking fairly easy), I&#8217;ve decided to give it up and go to [del.icio.us](http://del.icio.us) to host those links and data. I couldn&#8217;t pull the list directly into the main site with direct links to the real things I was linking to. To top it off, they never even responded to my questions about fixing their blogroll publishing (which features completely incorrect structure.
+After struggling with [Bloglines](http://www.bloglines.com) rather limited blog interface (which did make linking fairly easy), I've decided to give it up and go to [del.icio.us](http://del.icio.us) to host those links and data. I couldn't pull the list directly into the main site with direct links to the real things I was linking to. To top it off, they never even responded to my questions about fixing their blogroll publishing (which features completely incorrect structure.
 
-Oh well. I guess being the best just isn&#8217;t a priority for them. Del.icio.us seems to do it right.
+Oh well. I guess being the best just isn't a priority for them. Del.icio.us seems to do it right.

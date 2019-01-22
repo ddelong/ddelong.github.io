@@ -13,4 +13,4 @@ dsq_thread_id:
 categories:
   - Macs
 ---
-I recently criticized [Watson](http://www.karelia.com/watson/) for removing EyeTV functionality from Watson&#8217;s TV Pane. Dan Wood has restored this and the iCal functionality ([with caveats](http://weblog.karelia.com/Watson/Watson_updates_toda.html)). I must applaud him for this. I think most Watson users would have taken the TV pane as was and thought nothing more of it. It&#8217;s great to see such dedication.
+I recently criticized [Watson](http://www.karelia.com/watson/) for removing EyeTV functionality from Watson's TV Pane. Dan Wood has restored this and the iCal functionality ([with caveats](http://weblog.karelia.com/Watson/Watson_updates_toda.html)). I must applaud him for this. I think most Watson users would have taken the TV pane as was and thought nothing more of it. It's great to see such dedication.

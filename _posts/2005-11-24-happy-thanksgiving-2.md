@@ -13,6 +13,6 @@ shorturl:
 categories:
   - Personal
 ---
-I have a lot to be thankful for this year and I&#8217;m glad that I&#8217;ll be able to celebrate that with my family today.
+I have a lot to be thankful for this year and I'm glad that I'll be able to celebrate that with my family today.
 
-I hope all of you are in good health and have much to celebrate. Don&#8217;t forget to save room for some pie!
+I hope all of you are in good health and have much to celebrate. Don't forget to save room for some pie!

@@ -24,7 +24,7 @@ Thus, I pose the question, [which blogging tool are you?](http://www.wannabegirl
   
   <tr>
     <td>
-      You are a very conservative and introverted person. You live in your own world and you&#8217;re not very easy to approach.<br /> <br /> <a href="http://wannabegirl.org/quiz/tool/">Which Blogging Tool Are You?</a>
+      You are a very conservative and introverted person. You live in your own world and you're not very easy to approach.<br /> <br /> <a href="http://wannabegirl.org/quiz/tool/">Which Blogging Tool Are You?</a>
     </td>
   </tr>
 </table>

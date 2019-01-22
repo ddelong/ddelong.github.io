@@ -14,6 +14,6 @@ categories:
   - Blogging
   - Site News
 ---
-Following confirmation from Ranchero software that NetNewsWire does indeed work with WordPress, I&#8217;ve decided to move to it. Partly was to keep current and partly because of some of its features are compelling.
+Following confirmation from Ranchero software that NetNewsWire does indeed work with WordPress, I've decided to move to it. Partly was to keep current and partly because of some of its features are compelling.
 
-I won&#8217;t be making any more entries until the migration is complete. I&#8217;ll also be making my blog the front page for my domain. Stay tuned!
+I won't be making any more entries until the migration is complete. I'll also be making my blog the front page for my domain. Stay tuned!

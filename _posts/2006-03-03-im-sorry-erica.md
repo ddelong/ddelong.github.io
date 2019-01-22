@@ -1,6 +1,6 @@
 ---
 id: 601
-title: 'I&#8217;m Sorry Erica'
+title: 'I'm Sorry Erica'
 date: 2006-03-03T19:22:54+00:00
 author: Derik
 layout: single
@@ -13,4 +13,4 @@ shorturl:
 categories:
   - Personal
 ---
-I&#8217;m sorry I said what I did. You&#8217;re amazing and didn&#8217;t deserve that. I love you.
+I'm sorry I said what I did. You're amazing and didn't deserve that. I love you.
