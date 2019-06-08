@@ -13,7 +13,7 @@ shorturl:
 categories:
   - Technology
 ---
-If you're thinking about sound software right now, you're way off. Instead I'm talking about the literal words. VOIP (Voice Over IP) is a really hot technology right now because it makes [phone calls](http://www.trycards.com/) much cheaper than using traditional telephone service. I've pondered whether IP network use is cheaper than maintaining traditional phone networks, or if the telco's were simply sticking it to everyone. Considering recent more aggressive pricing by the telco's, I'd suspect it was the latter.
+If you're thinking about sound software right now, you're way off. Instead I'm talking about the literal words. VOIP (Voice Over IP) is a really hot technology right now because it makes phone calls much cheaper than using traditional telephone service. I've pondered whether IP network use is cheaper than maintaining traditional phone networks, or if the telco's were simply sticking it to everyone. Considering recent more aggressive pricing by the telco's, I'd suspect it was the latter.
 
 ### Bias
 

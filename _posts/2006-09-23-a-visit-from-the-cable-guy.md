@@ -23,6 +23,6 @@ If I dropped Vonage, I would save money. However, I like the portability of bein
 
 I'm sure you're brain is bubbling, or you may be even screaming. Why haven't I said anything about Comcast basically telling me that they could shut off Vonage whenever they want? Well, that's because I wanted to get the other stuff out of the way first.
 
-Pay attention boys and girls: this is [Net Neutrality](http://en.wikipedia.org/wiki/Net_neutrality) hitting home. Comcast threatened to degrade my independent internet [phone service](http://www.trycards.com/) to the point of being shutoff in order to promote their own service. That internet connection they supply is for my use and what I choose to do with it is my business. If I want to use Vonage, I can use Vonage. The day they lock me out of it is the day they lose me as a customer. It's unacceptable.
+Pay attention boys and girls: this is [Net Neutrality](http://en.wikipedia.org/wiki/Net_neutrality) hitting home. Comcast threatened to degrade my independent internet phone service to the point of being shutoff in order to promote their own service. That internet connection they supply is for my use and what I choose to do with it is my business. If I want to use Vonage, I can use Vonage. The day they lock me out of it is the day they lose me as a customer. It's unacceptable.
 
 However, I think it's all bark. The real question is do I want to pay $8 for an extra phone line, digital cable, and some premium channels. I think I might.

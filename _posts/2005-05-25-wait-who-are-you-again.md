@@ -16,15 +16,15 @@ categories:
 I just couldn't resist posting up this piece of spam.
 
 > **Subject:** please call me Frank
-     
+
 > **From:** &#8220;Glenn&#8221; azjuoyjxqjhm@aanda.datanet.hu
-> 
+>
 > Hi.,
-> 
-> Would you like at least $1500.00 to $3500.00 per day just for returning [phone calls](http://www.trycards.com/)? I do! If you have a telephone and can return calls you are fully qualified for this program.
-> 
+>
+> Would you like at least $1500.00 to $3500.00 per day just for returning phone calls? I do! If you have a telephone and can return calls you are fully qualified for this program.
+>
 > Thank you,
-> 
+>
 > Johanna
 
 Okay, so which name should I use when I call the number?

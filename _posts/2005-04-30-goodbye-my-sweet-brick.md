@@ -21,4 +21,4 @@ Everyone in my family got their phone upgraded to the LG VX3200. It's pretty bas
 
 [<img src="http://photos9.flickr.com/11705254_b244494511_t.jpg" width="75" height="100" alt="New Hotness" />](http://www.flickr.com/photos/d00d/11705254/ "Photo Sharing") [<img src="http://photos11.flickr.com/11705313_8992ff9626_t.jpg" width="75" height="100" alt="New Hotness" />](http://www.flickr.com/photos/d00d/11705313/ "Photo Sharing")
 
-<a href="http://www.trycards.com/" style="color:#333;text-decoration:none;cursor:text;font-weight:normal;" onmouseover="status='';return true">Phone cards</a> No more blushing when I reach to pull my phone out of my pocket in mixed company.
+No more blushing when I reach to pull my phone out of my pocket in mixed company.
